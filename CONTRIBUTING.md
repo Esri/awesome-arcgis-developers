@@ -4,7 +4,7 @@ Esri welcomes contributions from anyone and everyone. Please see our [guidelines
 
 Any open issues are fair game. Even just telling us what you want to see would be extremely helpful!
 
-You can [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issues/new) to request a new feature or report a bug, or you can [issue a pull request]() to propose an update.
+You can [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issues/new) to request a new feature or report a bug, or you can [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) to propose an update.
 
 ### Before filing an issue
 
