@@ -23,7 +23,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm): guide, API reference and samples to communicate with ArcGIS Earth.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/): guides, API refence and sample code to extent ArcGIS Enterprise
 - [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/): documentation, tutorials, API reference, FAQ, etc. to extend ArcGIS Pro Desktop.
-- [ArcGIS REST APIs](https://developers.arcgis.com/rest/): general documentation about several REST APIs: location services, portal administration, and more.
+- [ArcGIS REST APIs](https://developers.arcgis.com/rest/): general documentation about ArcGIS REST APIs: location services, content management, portal administration, and more.
 - [ArcGIS REST JS](https://developers.arcgis.com/arcgis-rest-js/): key concepts, tutorials and API referece of a collection of JS modules for accessing location services, ArcGIS Online and ArcGIS Enterprise REST APIs.
 - [ArcGIS Runtime API for .NET](https://developers.arcgis.com/net/): guides, sample codes and API reference to build desktop and mobile apps using .Net
 - [ArcGIS Runtime API for Android](https://developers.arcgis.com/android/): guides, sample codes and API reference to build mobile apps using Java or Kotlin
