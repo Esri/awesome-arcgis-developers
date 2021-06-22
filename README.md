@@ -49,6 +49,6 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [geojsonio](https://github.com/ropensci/geojsonio): convert many data formats to and from GeoJSON and TopoJSON
 - [gtfs2geojson](https://github.com/node-geojson/gtfs2geojson): Convert GTFS data into GeoJSON
 - [loam](https://github.com/azavea/loam): JavaScript wrapper for GDAL in the browser
-- [terraformer](https://github.com/terraformer-js/terraformer) convert ArcGIS JSON <-> GeoJSON, convert WKT geometries <-> GeoJSON geometries, etc.
+- [terraformer](https://github.com/terraformer-js/terraformer) convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats
 - [togeojson](mapbox.github.io/togeojson/): convert KML and GPX to GeoJSON, without the fuss
 - [tokml](https://github.com/mapbox/tokml): convert GeoJSON to KML.
