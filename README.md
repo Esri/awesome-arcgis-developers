@@ -12,6 +12,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [APIs and SDKs](#apis-and-sdks)
+- [Data format conversion tools](#data-format-conversion-tools)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -38,3 +39,16 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [js.arcgis.com](https://developers.arcgis.com/javascript/latest/): guides, sample code, API references and showcase to build 2D and 3D interactive web apps unlocking geospatial data.
 - [MapboxGL JS](https://developers.arcgis.com/mapbox-gl-js/): guide and tutorials to help you start building web apps with Mapbox and ArcGIS location services
 - [OpenLayers](https://developers.arcgis.com/openlayers/): guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services
+
+## Data format conversion tools
+
+- [arcgis-json-to-geojson](https://github.com/gavinr/arcgis-json-to-geojson): convert layer in ArcGIS JSON spec to GeoJSON spec
+- [csv2geojson](https://viglino.github.io/ol-ext/examples/misc/csv2geojson.html): convert points from CSV format to GeoJSON
+- [gdal](https://github.com/OSGeo/gdal): translator library for raster and vector geospatial data formats.
+- [geojson2svg](https://github.com/w8r/geojson2svg): render GeoJSON into SVG using inline or external stylesheet
+- [geojsonio](https://github.com/ropensci/geojsonio): convert many data formats to and from GeoJSON and TopoJSON
+- [gtfs2geojson](https://github.com/node-geojson/gtfs2geojson): Convert GTFS data into GeoJSON
+- [loam](https://github.com/azavea/loam): JavaScript wrapper for GDAL in the browser
+- [terraformer](https://github.com/terraformer-js/terraformer) convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats
+- [togeojson](https://mapbox.github.io/togeojson/): convert KML and GPX to GeoJSON, without the fuss
+- [tokml](https://github.com/mapbox/tokml): convert GeoJSON to KML.
