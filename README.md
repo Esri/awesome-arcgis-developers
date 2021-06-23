@@ -53,3 +53,18 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [terraformer](https://github.com/terraformer-js/terraformer) convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
 - [togeojson](https://mapbox.github.io/togeojson/): convert KML and GPX to GeoJSON, without the fuss.
 - [tokml](https://github.com/mapbox/tokml): convert GeoJSON to KML.
+
+## Related awesome lists
+
+- [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/): resources about ArcGIS that you will find organized by: products, industries, file formats, content providers, etc.
+- [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code): tools, tutorials, code, helpful projects and links about Earth Observation and Geospatial stuff.
+- [awesome-geojson](https://github.com/tmcw/awesome-geojson): GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
+- [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial): databases, radar, lidar, web map development, etc.
+- [awesome-gis](https://github.com/sshuair/awesome-gis): GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards , data, etc.
+- [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets): JSON datasets that don't require authentication about: climate, crime, goverment, NASA, travel, etc.
+- [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience): curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): a topic-centric list of high-quality open datasets.
+- [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection): list of datasets, codes, and contests related to remote sensing change detection.
+- [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets): list of satellite image training datasets with annotations for computer vision and deep learning.
+- [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation): networks by architecture (semantic segmentation, instance aware segmentation, ...), RNN, GANS, datasets, etc.
+- [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles): implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
