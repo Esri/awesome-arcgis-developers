@@ -56,7 +56,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 ## Related awesome lists
 
-- [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/): awesome list with a wiki flavour with resources about Esri and ArcGIS organized by: products, industries, file formats, content providers, etc.
+- [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/): awesome list with a wiki flavor with resources about Esri and ArcGIS organized by: products, industries, file formats, content providers, etc.
 - [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code): tools, tutorials, code, helpful projects and links about Earth Observation and Geospatial stuff.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson): GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
 - [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial): databases, radar, lidar, web map development, etc.
