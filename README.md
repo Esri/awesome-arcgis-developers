@@ -49,6 +49,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [geojson2svg](https://github.com/w8r/geojson2svg): render GeoJSON into SVG using inline or external stylesheet.
 - [geojsonio](https://github.com/ropensci/geojsonio): convert many data formats to and from GeoJSON and TopoJSON.
 - [gtfs2geojson](https://github.com/node-geojson/gtfs2geojson): Convert GTFS data into GeoJSON.
+- [Koop](https://koopjs.github.io): JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, Vector Tiles, Feature Services and more.
 - [loam](https://github.com/azavea/loam): JavaScript wrapper for GDAL in the browser.
 - [terraformer](https://github.com/terraformer-js/terraformer) convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
 - [togeojson](https://mapbox.github.io/togeojson/): convert KML and GPX to GeoJSON, without the fuss.
