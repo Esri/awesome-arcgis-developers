@@ -21,6 +21,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 ## APIs and SDKs
 
+- [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/latest/): guides, sample code, API references and showcase to build 2D and 3D interactive web apps unlocking geospatial data.
 - [ArcGIS API for Python](https://developers.arcgis.com/python/): guides, sample notebooks and API reference to do mapping, spatial analysis, data science, geospatial AI and automation using Python.
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm): guide, API reference and samples to communicate with ArcGIS Earth.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/): guides, API refence and sample code to extent ArcGIS Enterprise.
@@ -37,7 +38,6 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [ArcObjects SDK for Java](https://desktop.arcgis.com/en/arcobjects/latest/java/#80146cac-6b50-4c82-a9f5-7a5be3406c5b.htm): documentation about the Java SDK for the library of Component Object Model (COM) components that make up the foundation of ArcGIS.
 - [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm): documentation about the python package to perform geographic data analysis, data conversion, data management, and map automation in ArcGIS Desktop or ArcGIS Enterprise environments.
 - [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/): key concepts, tutorials, API reference, plugins, sample code to help you build web apps using Leaflet with ArcGIS Location services.
-- [js.arcgis.com](https://developers.arcgis.com/javascript/latest/): guides, sample code, API references and showcase to build 2D and 3D interactive web apps unlocking geospatial data.
 - [MapboxGL JS](https://developers.arcgis.com/mapbox-gl-js/): guide and tutorials to help you start building web apps with Mapbox and ArcGIS location services.
 - [OpenLayers](https://developers.arcgis.com/openlayers/): guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
 
