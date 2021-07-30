@@ -51,6 +51,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps): shows cool example maps you can use.
 - [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts): Esri Netherlands scripts and snippets for reuse.
 - [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js): A collection of code snippets for ArcGIS API for JavaScript.
+- [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) A collection of resources for developers using the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/).
 
 ## Data format conversion tools
 
