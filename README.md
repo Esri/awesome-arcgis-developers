@@ -12,6 +12,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [APIs and SDKs](#apis-and-sdks)
+- [Code samples and snippets](#code-samples-and-snippets)
 - [Data format conversion tools](#data-format-conversion-tools)
 - [Related awesome lists](#related-awesome-lists)
 
@@ -40,6 +41,17 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/): key concepts, tutorials, API reference, plugins, sample code to help you build web apps using Leaflet with ArcGIS Location services.
 - [MapboxGL JS](https://developers.arcgis.com/mapbox-gl-js/): guide and tutorials to help you start building web apps with Mapbox and ArcGIS location services.
 - [OpenLayers](https://developers.arcgis.com/openlayers/): guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
+
+## Code samples and snippets
+
+- [ArcGIS API for JavaScript Sample Code](https://developers.arcgis.com/javascript/latest/sample-code/): official Esri's JavaScript API product team samples.
+- [ArcGIS Code Sharing](http://codesharing.arcgis.com/): search, browse, and use code, scripts, models, add-ins, widgets, and more.
+- [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets): Collection of Visual Studio Code snippets for common code patterns.
+- [Esri/developer-support](https://github.com/Esri/developer-support): community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
+- [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps): shows cool example maps you can use.
+- [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts): Esri Netherlands scripts and snippets for reuse.
+- [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js): A collection of code snippets for ArcGIS API for JavaScript.
+- [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) A collection of resources for developers using the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/).
 
 ## Data format conversion tools
 
