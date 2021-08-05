@@ -14,6 +14,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [APIs and SDKs](#apis-and-sdks)
 - [Code samples and snippets](#code-samples-and-snippets)
 - [Data format conversion tools](#data-format-conversion-tools)
+- [Data exploration and manipulation interfaces](#data-exploration-and-manipulation-interfaces)
 - [Related awesome lists](#related-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -65,6 +66,13 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [terraformer](https://github.com/terraformer-js/terraformer) convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
 - [togeojson](https://mapbox.github.io/togeojson/): convert KML and GPX to GeoJSON, without the fuss.
 - [tokml](https://github.com/mapbox/tokml): convert GeoJSON to KML.
+
+## Data exploration and manipulation interfaces
+
+- [ArcGIS Web Map Viewer](https://www.arcgis.com/apps/mapviewer/index.html): create, explore, and share web maps for 2D applications
+- [ArcGIS Web Map Viewer (classic version)](https://hhkaos2.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=96890558e7e7458ea900c53d786c842d): create, explore, and share web maps for 2D applications
+- [ArcGIS Web Scene Viewer](https://www.arcgis.com/home/webscene/viewer.html): create, explore, and share web maps for 3D applications
+- [Mapshaper](https://github.com/mbloch/mapshaper): tools simplifying shapes, editing attribute data, clipping, erasing, dissolving, filtering, ... Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files. 
 
 ## Related awesome lists
 
