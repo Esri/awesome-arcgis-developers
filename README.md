@@ -14,6 +14,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [APIs and SDKs](#apis-and-sdks)
 - [Code samples and snippets](#code-samples-and-snippets)
 - [Data format conversion tools](#data-format-conversion-tools)
+- [Data integration tools](#data-integration-tools)
 - [Related awesome lists](#related-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -65,6 +66,15 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [terraformer](https://github.com/terraformer-js/terraformer) convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
 - [togeojson](https://mapbox.github.io/togeojson/): convert KML and GPX to GeoJSON, without the fuss.
 - [tokml](https://github.com/mapbox/tokml): convert GeoJSON to KML.
+
+## Data integration tools
+
+- [ArcGIS Data Interoperability Extension](https://esri-es.github.io/awesome-arcgis/arcgis/products/extensions/data-interoperability/): desktop tool to transform +400 data formats. 
+- [FME Server](https://www.safe.com/integrate/): ETL allowing to easily transform almost any dataset into an ArcGIS Compatible format and vice-versa. Support +500 formats and technologies.
+- [Integromat](https://www.integromat.com/en/integrations/survey123): iPaas to automate repetitive tasks involved in using Survey123 and make your work easier.
+- [node-red-contrib-arcgis-rest](https://flows.nodered.org/node/node-red-contrib-arcgis-rest): query, delete, update or insert  data with the low-code programming for event-driven applications of the JS Foundation.
+- [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38): iPaaS to automate integrations without writing any code.
+- [Tray.io](https://tray.io/connectors/arcgis-integrations): Manual, schedules and webhook triggers to apply edits, get features, layers, etc using their ArcGIS connector.
 
 ## Related awesome lists
 
