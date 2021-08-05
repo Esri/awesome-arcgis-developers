@@ -71,7 +71,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 ## Data integration tools
 
 - [ArcGIS Data Interoperability Extension](https://esri-es.github.io/awesome-arcgis/arcgis/products/extensions/data-interoperability/): desktop tool to transform +400 data formats. 
-- [FME Server](https://www.safe.com/integrate/): ETL allowing to easily transform almost any dataset into an ArcGIS Compatible format and vice-versa. Support +500 formats and technologies.
+- [FME Server](https://www.safe.com/integrate/): ETL allowing to easily transform almost any dataset into an ArcGIS compatible format and vice-versa. Support for 500+ formats and technologies.
 - [Integromat](https://www.integromat.com/en/integrations/survey123): iPaas to automate repetitive tasks involved in using Survey123 and make your work easier.
 - [node-red-contrib-arcgis-rest](https://flows.nodered.org/node/node-red-contrib-arcgis-rest): query, delete, update or insert  data with the low-code programming for event-driven applications of the JS Foundation.
 - [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38): iPaaS to automate integrations without writing any code.
