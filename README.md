@@ -75,7 +75,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Integromat](https://www.integromat.com/en/integrations/survey123): iPaas to automate repetitive tasks involved in using Survey123 and make your work easier.
 - [node-red-contrib-arcgis-rest](https://flows.nodered.org/node/node-red-contrib-arcgis-rest): query, delete, update or insert data with low-code programming for event-driven applications of the JS Foundation.
 - [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38): iPaaS to automate integrations without writing any code.
-- [Tray.io](https://tray.io/connectors/arcgis-integrations): Manual, schedules and webhook triggers to apply edits, get features, layers, etc using their ArcGIS connector.
+- [Tray.io](https://tray.io/connectors/arcgis-integrations): Manual, scheduled and webhook triggers to apply edits, get features, layers, etc. using ArcGIS connector.
 
 ## Related awesome lists
 
