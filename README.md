@@ -12,6 +12,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [APIs and SDKs](#apis-and-sdks)
+- [Cartographic generalization](#cartographic-generalization)
 - [Code samples and snippets](#code-samples-and-snippets)
 - [Data format conversion tools](#data-format-conversion-tools)
 - [Data exploration and manipulation](#data-exploration-and-manipulation)
@@ -44,6 +45,13 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/): key concepts, tutorials, API reference, plugins, sample code to help you build web apps using Leaflet with ArcGIS Location services.
 - [MapboxGL JS](https://developers.arcgis.com/mapbox-gl-js/): guide and tutorials to help you start building web apps with Mapbox and ArcGIS location services.
 - [OpenLayers](https://developers.arcgis.com/openlayers/): guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
+
+## Cartographic generalization
+
+- [Distillery](http://shancarter.github.io/distillery/): web application to simplify and project TopoJSON.
+- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): the `maxAllowableOffset` parameter can be used for generalizing geometries returned by the Query operation.
+- [Generalize method](https://bit.ly/2VNPkuO): GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
+- [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html): this operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
 
 ## Code samples and snippets
 
