@@ -18,6 +18,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Data exploration and manipulation](#data-exploration-and-manipulation)
 - [Data integration tools](#data-integration-tools)
 - [Debugging tools](#debugging-tools)
+- [Design](#design)
 - [Related awesome lists](#related-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -106,7 +107,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [test-cors.org](https://test-cors.org): app to test CORS requests. You can either send the CORS request to a remote server (to test if CORS is supported), or send the CORS request to a test server (to explore certain features of CORS).
 - [netbalancer.com](https://netbalancer.com/): Windows application for local network traffic control and monitoring.
 
-## Design resources, tools and frameworks
+## Design
 
 - [ArcGIS Vector Tile Style Editor](https://developers.arcgis.com/documentation/mapping-apis-and-services/tools/vector-tile-style-editor/): Style vector tile basemap layers for applications.
 - [arcgis-vectortile-style-editor](https://github.com/Esri/arcgis-vectortile-style-editor): minimalistic tool to update the styles of Esri Vector Basemaps through JSON.
