@@ -95,7 +95,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [json-schema.org](https://json-schema.org/): vocabulary that allows you to annotate and validate JSON documents (include multiple validators).
 - [mapbox/geojson-vt/debug](http://mapbox.github.io/geojson-vt/debug/): validate GeoJSON or TopoJSON.
 - [Postman interceptor](https://www.postman.com/product/postman-interceptor/): interceptor enables you to sync cookies from your browser and capture network requests directly from Chrome.
-- [test-cors.org](https://enable-cors.org/): app to test CORS requests. You can either send the CORS request to a remote server (to test if CORS is supported), or send the CORS request to a test server (to explore certain features of CORS).
+- [test-cors.org](https://test-cors.org): app to test CORS requests. You can either send the CORS request to a remote server (to test if CORS is supported), or send the CORS request to a test server (to explore certain features of CORS).
 - [netbalancer.com](https://netbalancer.com/): Windows application for local network traffic control and monitoring.
 
 ## Related awesome lists
