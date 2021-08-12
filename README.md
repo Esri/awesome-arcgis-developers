@@ -17,6 +17,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Data exploration and manipulation](#data-exploration-and-manipulation)
 - [Data integration tools](#data-integration-tools)
 - [Related awesome lists](#related-awesome-lists)
+- [Starter apps and CLIs](#starter-apps-and-clis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -101,3 +102,11 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets): list of satellite image training datasets with annotations for computer vision and deep learning.
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation): networks by architecture (semantic segmentation, instance aware segmentation, ...), RNN, GANS, datasets, etc.
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles): implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
+
+## Starter apps and CLIs
+
+- [@arcgis/cli](https://github.com/Esri/arcgis-js-cli): quickly scaffold various applications for the ArcGIS API for JavaScript.
+- [application-base-js](https://github.com/Esri/application-base-js): core class for creating a configurable application using JavaScript/TypeScript.
+- [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps): collection of boilerplates to get started with the ArcGIS API for JavaScript 4.x.
+- [generator-esri-appbuilder-js](https://github.com/Esri/generator-esri-appbuilder-js): Yeoman generator to help customize Esri's Web AppBuilder.
+- [koop-cli](https://github.com/koopjs/koop-cli): tool to scaffold Koop applications and plugins.
