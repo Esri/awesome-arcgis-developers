@@ -16,6 +16,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Data format conversion tools](#data-format-conversion-tools)
 - [Data exploration and manipulation](#data-exploration-and-manipulation)
 - [Data integration tools](#data-integration-tools)
+- [Playgrounds](#playgrounds)
 - [Related awesome lists](#related-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -86,6 +87,13 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [node-red-contrib-arcgis-rest](https://flows.nodered.org/node/node-red-contrib-arcgis-rest): query, delete, update or insert data with low-code programming for event-driven applications of the JS Foundation.
 - [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38): iPaaS to automate integrations without writing any code.
 - [Tray.io](https://tray.io/connectors/arcgis-integrations): Manual, scheduled and webhook triggers to apply edits, get features, layers, etc. using Tray Platform’s ArcGIS connector.
+
+## Playgrounds
+
+- [arcgis-arcade-playground](https://developers.arcgis.com/arcade/playground/): try the portable scripting language for creating ArcGIS custom visualizations and labeling expressions.
+- [cim-symbol-builder](https://github.com/Esri/cim-symbol-builder-js): generate CIM symbols to work with the ArcGIS API for JavaScript 4.x.
+- [js-symbol-playground 3.x](https://developers.arcgis.com/javascript/3/samples/playground/index.html): generate symbols to work with the ArcGIS API for JavaScript 3.x
+- [js-symbol-playground 4.x](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/): generate symbols to work with the ArcGIS API for JavaScript 4.x.
 
 ## Related awesome lists
 
