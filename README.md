@@ -14,7 +14,8 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [APIs and SDKs](#apis-and-sdks)
 - [Code samples and snippets](#code-samples-and-snippets)
 - [Data format conversion tools](#data-format-conversion-tools)
-- [Data exploration and manipulation interfaces](#data-exploration-and-manipulation-interfaces)
+- [Data exploration and manipulation](#data-exploration-and-manipulation)
+- [Data integration tools](#data-integration-tools)
 - [Related awesome lists](#related-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -49,10 +50,10 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/): search, browse, and use code, scripts, models, add-ins, widgets, and more.
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets): Collection of Visual Studio Code snippets for common code patterns.
 - [Esri/developer-support](https://github.com/Esri/developer-support): community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
+- [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) A collection of resources for developers using the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/).
 - [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps): shows cool example maps you can use.
 - [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts): Esri Netherlands scripts and snippets for reuse.
 - [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js): A collection of code snippets for ArcGIS API for JavaScript.
-- [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) A collection of resources for developers using the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/).
 
 ## Data format conversion tools
 
@@ -76,6 +77,15 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [geojson.io](https://github.com/mapbox/geojson.io): web application to generate and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and shapefile.
 - [Mapshaper](https://github.com/mbloch/mapshaper): web application to simplify shapes, edit attribute data, clipp, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files. 
 - [Smart Mapping](https://www.esri.com/en-us/smart-mapping): is built-in in the Map and Scene viewer, but some APIs like JavaScript and Python also provide utilities to help building data explorations tools.
+
+## Data integration tools
+
+- [ArcGIS Data Interoperability Extension](https://esri-es.github.io/awesome-arcgis/arcgis/products/extensions/data-interoperability/): desktop tool to transform +400 data formats. 
+- [FME Server](https://www.safe.com/integrate/): ETL allowing to easily transform almost any dataset into an ArcGIS compatible format and vice-versa. Support for 500+ formats and technologies.
+- [Integromat](https://www.integromat.com/en/integrations/survey123): iPaas to automate repetitive tasks involved in using Survey123 and make your work easier.
+- [node-red-contrib-arcgis-rest](https://flows.nodered.org/node/node-red-contrib-arcgis-rest): query, delete, update or insert data with low-code programming for event-driven applications of the JS Foundation.
+- [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38): iPaaS to automate integrations without writing any code.
+- [Tray.io](https://tray.io/connectors/arcgis-integrations): Manual, scheduled and webhook triggers to apply edits, get features, layers, etc. using Tray Platform’s ArcGIS connector.
 
 ## Related awesome lists
 
