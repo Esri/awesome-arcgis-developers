@@ -16,6 +16,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Data format conversion tools](#data-format-conversion-tools)
 - [Data exploration and manipulation](#data-exploration-and-manipulation)
 - [Data integration tools](#data-integration-tools)
+- [Debugging tools](#debugging-tools)
 - [Related awesome lists](#related-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -86,6 +87,16 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [node-red-contrib-arcgis-rest](https://flows.nodered.org/node/node-red-contrib-arcgis-rest): query, delete, update or insert data with low-code programming for event-driven applications of the JS Foundation.
 - [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38): iPaaS to automate integrations without writing any code.
 - [Tray.io](https://tray.io/connectors/arcgis-integrations): Manual, scheduled and webhook triggers to apply edits, get features, layers, etc. using Tray Platform’s ArcGIS connector.
+
+## Debugging tools
+
+- [Fiddler Classic](https://www.telerik.com/fiddler/fiddler-classic): Windows tool that logs HTTP(s) network traffic.
+- [GeoJSONLint](https://geojsonlint.com/): validate and view your GeoJSON.
+- [json-schema.org](https://json-schema.org/): vocabulary that allows you to annotate and validate JSON documents (include multiple validators).
+- [mapbox/geojson-vt/debug](http://mapbox.github.io/geojson-vt/debug/): validate GeoJSON or TopoJSON.
+- [Postman interceptor](https://www.postman.com/product/postman-interceptor/): interceptor enables you to sync cookies from your browser and capture network requests directly from Chrome.
+- [test-cors.org](https://enable-cors.org/): app to test CORS requests. You can either send the CORS request to a remote server (to test if CORS is supported), or send the CORS request to a test server (to explore certain features of CORS).
+- [netbalancer.com](https://netbalancer.com/): Windows application for local network traffic control and monitoring.
 
 ## Related awesome lists
 
