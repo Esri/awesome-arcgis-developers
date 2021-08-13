@@ -12,11 +12,15 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [APIs and SDKs](#apis-and-sdks)
+- [Cartographic generalization](#cartographic-generalization)
 - [Code samples and snippets](#code-samples-and-snippets)
 - [Data format conversion tools](#data-format-conversion-tools)
 - [Data exploration and manipulation](#data-exploration-and-manipulation)
 - [Data integration tools](#data-integration-tools)
+- [Debugging tools](#debugging-tools)
+- [Design](#design)
 - [Related awesome lists](#related-awesome-lists)
+- [Spatial Analysis](#spatial-analysis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -43,6 +47,13 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/): key concepts, tutorials, API reference, plugins, sample code to help you build web apps using Leaflet with ArcGIS Location services.
 - [MapboxGL JS](https://developers.arcgis.com/mapbox-gl-js/): guide and tutorials to help you start building web apps with Mapbox and ArcGIS location services.
 - [OpenLayers](https://developers.arcgis.com/openlayers/): guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
+
+## Cartographic generalization
+
+- [Distillery](http://shancarter.github.io/distillery/): web application to simplify and project TopoJSON.
+- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): the `maxAllowableOffset` parameter can be used for generalizing geometries returned by the `query` operation.
+- [Generalize method](https://bit.ly/2VNPkuO): GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
+- [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html): this operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
 
 ## Code samples and snippets
 
@@ -87,6 +98,24 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38): iPaaS to automate integrations without writing any code.
 - [Tray.io](https://tray.io/connectors/arcgis-integrations): Manual, scheduled and webhook triggers to apply edits, get features, layers, etc. using Tray Platform’s ArcGIS connector.
 
+## Debugging tools
+
+- [Fiddler Classic](https://www.telerik.com/fiddler/fiddler-classic): Windows tool that logs HTTP(s) network traffic.
+- [GeoJSONLint](https://geojsonlint.com/): validate and view your GeoJSON.
+- [json-schema.org](https://json-schema.org/): vocabulary that allows you to annotate and validate JSON documents (include multiple validators).
+- [mapbox/geojson-vt/debug](http://mapbox.github.io/geojson-vt/debug/): validate GeoJSON or TopoJSON.
+- [Postman interceptor](https://www.postman.com/product/postman-interceptor/): interceptor enables you to sync cookies from your browser and capture network requests directly from Chrome.
+- [test-cors.org](https://test-cors.org): app to test CORS requests. You can either send the CORS request to a remote server (to test if CORS is supported), or send the CORS request to a test server (to explore certain features of CORS).
+- [netbalancer.com](https://netbalancer.com/): Windows application for local network traffic control and monitoring.
+
+## Design
+
+- [ArcGIS Vector Tile Style Editor](https://developers.arcgis.com/documentation/mapping-apis-and-services/tools/vector-tile-style-editor/): Style vector tile basemap layers for applications.
+- [arcgis-vectortile-style-editor](https://github.com/Esri/arcgis-vectortile-style-editor): minimalistic tool to update the styles of Esri Vector Basemaps through JSON.
+- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/): collection of mapping icons, web components, and good practices.
+- [EsriUK mapstyler](https://github.com/EsriUK/mapstyler): quickly style an Esri vector tile layer using an image.
+- [MapUIPatterns](https://www.mapuipatterns.com/): best practices & design principles. UI Patterns describe solutions to observed and recurring design problems.
+
 ## Related awesome lists
 
 - [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/): awesome list with a wiki flavor with resources about Esri and ArcGIS organized by: products, industries, file formats, content providers, etc.
@@ -102,9 +131,10 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation): networks by architecture (semantic segmentation, instance aware segmentation, ...), RNN, GANS, datasets, etc.
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles): implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
 
-# Spatial Analysis
+## Spatial Analysis
 
-- [Geometry Engine](https://bit.ly/3iGo6PV)
-- [Turf simplify](https://www.npmjs.com/package/@turf/simplify): simplify takes a GeoJSON object and returns a simplified version.
-
-https://github.com/Esri?q=topic%3Aspatial-analysis
+- [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop): collection of GIS tools for spatial analysis of big data.
+- [Esri/spatial-framework-for-hadoop](https://github.com/Esri/spatial-framework-for-hadoop): allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.
+- [Geometry Engine](https://bit.ly/3iGo6PV): allow you to test spatial relationships, calculate new geometries, measure length, area, distances, etc. Several APIs include it: ArcGIS API for JavaScript (for browsers and Node.js), ArcGIS API for Python and the ArcGIS Runtime APIs.
+* [Spatial analysis service](https://developers.arcgis.com/rest/analysis/api-reference/getting-started.htm): process spatial datasets to discover relationships and patterns.
+- [Turf.js](https://www.npmjs.com/package/@turf/simplify): geospatial analysis for browsers and Node.js
