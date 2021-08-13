@@ -18,6 +18,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Data exploration and manipulation](#data-exploration-and-manipulation)
 - [Data integration tools](#data-integration-tools)
 - [Debugging tools](#debugging-tools)
+- [Design](#design)
 - [Related awesome lists](#related-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -49,7 +50,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 ## Cartographic generalization
 
 - [Distillery](http://shancarter.github.io/distillery/): web application to simplify and project TopoJSON.
-- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): the `maxAllowableOffset` parameter can be used for generalizing geometries returned by the Query operation.
+- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): the `maxAllowableOffset` parameter can be used for generalizing geometries returned by the `query` operation.
 - [Generalize method](https://bit.ly/2VNPkuO): GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
 - [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html): this operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
 
@@ -105,6 +106,14 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Postman interceptor](https://www.postman.com/product/postman-interceptor/): interceptor enables you to sync cookies from your browser and capture network requests directly from Chrome.
 - [test-cors.org](https://test-cors.org): app to test CORS requests. You can either send the CORS request to a remote server (to test if CORS is supported), or send the CORS request to a test server (to explore certain features of CORS).
 - [netbalancer.com](https://netbalancer.com/): Windows application for local network traffic control and monitoring.
+
+## Design
+
+- [ArcGIS Vector Tile Style Editor](https://developers.arcgis.com/documentation/mapping-apis-and-services/tools/vector-tile-style-editor/): Style vector tile basemap layers for applications.
+- [arcgis-vectortile-style-editor](https://github.com/Esri/arcgis-vectortile-style-editor): minimalistic tool to update the styles of Esri Vector Basemaps through JSON.
+- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/): collection of mapping icons, web components, and good practices.
+- [EsriUK mapstyler](https://github.com/EsriUK/mapstyler): quickly style an Esri vector tile layer using an image.
+- [MapUIPatterns](https://www.mapuipatterns.com/): best practices & design principles. UI Patterns describe solutions to observed and recurring design problems.
 
 ## Related awesome lists
 
