@@ -101,3 +101,10 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets): list of satellite image training datasets with annotations for computer vision and deep learning.
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation): networks by architecture (semantic segmentation, instance aware segmentation, ...), RNN, GANS, datasets, etc.
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles): implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
+
+# Spatial Analysis
+
+- [Geometry Engine](https://bit.ly/3iGo6PV)
+- [Turf simplify](https://www.npmjs.com/package/@turf/simplify): simplify takes a GeoJSON object and returns a simplified version.
+
+https://github.com/Esri?q=topic%3Aspatial-analysis
