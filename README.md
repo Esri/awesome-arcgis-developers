@@ -20,6 +20,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Debugging tools](#debugging-tools)
 - [Design](#design)
 - [Related awesome lists](#related-awesome-lists)
+- [Specifications](#specifications)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -129,3 +130,15 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets): list of satellite image training datasets with annotations for computer vision and deep learning.
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation): networks by architecture (semantic segmentation, instance aware segmentation, ...), RNN, GANS, datasets, etc.
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles): implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
+
+## Specifications
+
+- [Cartographic Information Model spec](https://github.com/Esri/cim-spec): map content specification used to persist and transfer cartographic descriptions of GIS datasets represented in JSON.
+- [Common data types](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm): JSON formats of the geometry and spatial reference objects as returned by ArcGIS REST API: Point, Multipoint, Polyline, Polygon and Envelope. 
+- [GeoServices spec](https://github.com/koopjs/FeatureServer): Open Web Foundation REST-based API that provides a complete access to structured geospatial data used by Esri.
+- [Indexed 3D Scene Layers](https://github.com/Esri/i3s-spec): service and package standard of containers for arbitrarily large amounts of geographic data.
+- [Shapefile Technical description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf): spec for the geospatial vector data format for GIS software.
+- [Spatial reference specifications](https://developers.arcgis.com/documentation/spatial-references/#spatial-reference-specifications): list of  Well-Known ID (WKID) integer value or a text string definition referred to as Well-Known Text (WKT) to define a spatial reference.
+- [Tile Package Specification](https://github.com/Esri/tile-package-spec): compressed file containing a set of tiles and a tiling scheme, which can be used as a basemap in ArcGIS applications.
+- [Web Map spec](https://developers.arcgis.com/web-map-specification/): sharable 2D maps. It describes the JSON object which defines a web map.
+- [Web Scene spec](https://developers.arcgis.com/web-scene-specification/): sharable 3D maps. It describes the JSON object which defines a web scene.
