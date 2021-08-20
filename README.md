@@ -137,7 +137,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Common data types](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm): JSON formats of the geometry and spatial reference objects as returned by ArcGIS REST API: Point, Multipoint, Polyline, Polygon and Envelope. 
 - [GeoServices spec](https://github.com/koopjs/FeatureServer): Open Web Foundation REST-based API that provides a complete access to structured geospatial data used by Esri.
 - [Indexed 3D Scene Layers](https://github.com/Esri/i3s-spec): service and package standard of containers for arbitrarily large amounts of geographic data.
-- [Shapefile Technical description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf): spec for the geospatial vector data format for GIS software.
+- [Shapefile Format](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf): spec for the geospatial vector data format for GIS software.
 - [Spatial reference specifications](https://developers.arcgis.com/documentation/spatial-references/#spatial-reference-specifications): list of  Well-Known ID (WKID) integer value or a text string definition referred to as Well-Known Text (WKT) to define a spatial reference.
 - [Tile Package Specification](https://github.com/Esri/tile-package-spec): compressed file containing a set of tiles and a tiling scheme, which can be used as a basemap in ArcGIS applications.
 - [Web Map spec](https://developers.arcgis.com/web-map-specification/): sharable 2D maps. It describes the JSON object which defines a web map.
