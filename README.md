@@ -135,6 +135,6 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 - [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop): collection of GIS tools for spatial analysis of big data.
 - [Esri/spatial-framework-for-hadoop](https://github.com/Esri/spatial-framework-for-hadoop): allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.
-- [Geometry Engine](https://bit.ly/3iGo6PV): allow you to test spatial relationships, calculate new geometries, measure length, area, distances, etc. Several APIs include it: ArcGIS API for JavaScript (for browsers and Node.js), ArcGIS API for Python and the ArcGIS Runtime APIs.
+- [Geometry Engine](https://bit.ly/3iGo6PV): allows you to test spatial relationships, calculate new geometries, and measure lengths, areas, distances, etc. Several APIs include it: ArcGIS API for JavaScript (for browsers and Node.js), ArcGIS API for Python, and the ArcGIS Runtime APIs.
 * [Spatial analysis service](https://developers.arcgis.com/rest/analysis/api-reference/getting-started.htm): process spatial datasets to discover relationships and patterns.
 - [Turf.js](https://www.npmjs.com/package/@turf/simplify): geospatial analysis for browsers and Node.js
