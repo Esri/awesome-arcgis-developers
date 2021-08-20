@@ -141,4 +141,4 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Spatial reference specifications](https://developers.arcgis.com/documentation/spatial-references/#spatial-reference-specifications): list of  Well-Known ID (WKID) integer value or a text string definition referred to as Well-Known Text (WKT) to define a spatial reference.
 - [Tile Package Specification](https://github.com/Esri/tile-package-spec): compressed file containing a set of tiles and a tiling scheme, which can be used as a basemap in ArcGIS applications.
 - [Web Map spec](https://developers.arcgis.com/web-map-specification/): sharable 2D maps. It describes the JSON object which defines a web map.
-- [Web Scene spec](https://developers.arcgis.com/web-scene-specification/): sharable 3D maps. It describes the JSON object which defines a web scene.
+- [Web Scene spec](https://developers.arcgis.com/web-scene-specification/): A JSON structure that defines the contents (viewpoint, camera, basemap layer, layers, styles...) for a shareable 3D scene.
