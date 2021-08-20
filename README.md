@@ -12,12 +12,16 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [APIs and SDKs](#apis-and-sdks)
+- [Cartographic generalization](#cartographic-generalization)
 - [Code samples and snippets](#code-samples-and-snippets)
 - [Data format conversion tools](#data-format-conversion-tools)
 - [Data exploration and manipulation](#data-exploration-and-manipulation)
 - [Data integration tools](#data-integration-tools)
+- [Debugging tools](#debugging-tools)
+- [Design](#design)
 - [Playgrounds](#playgrounds)
 - [Related awesome lists](#related-awesome-lists)
+- [Specifications](#specifications)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -44,6 +48,13 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/): key concepts, tutorials, API reference, plugins, sample code to help you build web apps using Leaflet with ArcGIS Location services.
 - [MapboxGL JS](https://developers.arcgis.com/mapbox-gl-js/): guide and tutorials to help you start building web apps with Mapbox and ArcGIS location services.
 - [OpenLayers](https://developers.arcgis.com/openlayers/): guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
+
+## Cartographic generalization
+
+- [Distillery](http://shancarter.github.io/distillery/): web application to simplify and project TopoJSON.
+- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): the `maxAllowableOffset` parameter can be used for generalizing geometries returned by the `query` operation.
+- [Generalize method](https://bit.ly/2VNPkuO): GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
+- [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html): this operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
 
 ## Code samples and snippets
 
@@ -88,11 +99,29 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38): iPaaS to automate integrations without writing any code.
 - [Tray.io](https://tray.io/connectors/arcgis-integrations): Manual, scheduled and webhook triggers to apply edits, get features, layers, etc. using Tray Platform’s ArcGIS connector.
 
+## Debugging tools
+
+- [Fiddler Classic](https://www.telerik.com/fiddler/fiddler-classic): Windows tool that logs HTTP(s) network traffic.
+- [GeoJSONLint](https://geojsonlint.com/): validate and view your GeoJSON.
+- [json-schema.org](https://json-schema.org/): vocabulary that allows you to annotate and validate JSON documents (include multiple validators).
+- [mapbox/geojson-vt/debug](http://mapbox.github.io/geojson-vt/debug/): validate GeoJSON or TopoJSON.
+- [Postman interceptor](https://www.postman.com/product/postman-interceptor/): interceptor enables you to sync cookies from your browser and capture network requests directly from Chrome.
+- [test-cors.org](https://test-cors.org): app to test CORS requests. You can either send the CORS request to a remote server (to test if CORS is supported), or send the CORS request to a test server (to explore certain features of CORS).
+- [netbalancer.com](https://netbalancer.com/): Windows application for local network traffic control and monitoring.
+
+## Design
+
+- [ArcGIS Vector Tile Style Editor](https://developers.arcgis.com/documentation/mapping-apis-and-services/tools/vector-tile-style-editor/): Style vector tile basemap layers for applications.
+- [arcgis-vectortile-style-editor](https://github.com/Esri/arcgis-vectortile-style-editor): minimalistic tool to update the styles of Esri Vector Basemaps through JSON.
+- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/): collection of mapping icons, web components, and good practices.
+- [EsriUK mapstyler](https://github.com/EsriUK/mapstyler): quickly style an Esri vector tile layer using an image.
+- [MapUIPatterns](https://www.mapuipatterns.com/): best practices & design principles. UI Patterns describe solutions to observed and recurring design problems.
+
 ## Playgrounds
 
 - [arcgis-arcade-playground](https://developers.arcgis.com/arcade/playground/): try the portable scripting language for creating ArcGIS custom visualizations and labeling expressions.
 - [cim-symbol-builder](https://github.com/Esri/cim-symbol-builder-js): generate CIM symbols to work with ArcGIS client APIs and feature services.
-- [js-symbol-playground 3.x](https://developers.arcgis.com/javascript/3/samples/playground/index.html): generate symbols to work with the ArcGIS API for JavaScript 3.x
+- [js-symbol-playground 3.x](https://developers.arcgis.com/javascript/3/samples/playground/index.html): generate symbols to work with the ArcGIS API for JavaScript 3.x.
 - [js-symbol-playground 4.x](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/): generate symbols to work with the ArcGIS API for JavaScript 4.x.
 
 ## Related awesome lists
@@ -109,3 +138,15 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets): list of satellite image training datasets with annotations for computer vision and deep learning.
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation): networks by architecture (semantic segmentation, instance aware segmentation, ...), RNN, GANS, datasets, etc.
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles): implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
+
+## Specifications
+
+- [Cartographic Information Model spec](https://github.com/Esri/cim-spec): map content specification used to persist and transfer cartographic descriptions of GIS datasets represented in JSON.
+- [Common data types](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm): JSON formats of the geometry and spatial reference objects as returned by ArcGIS REST API: Point, Multipoint, Polyline, Polygon and Envelope. 
+- [GeoServices spec](https://github.com/koopjs/FeatureServer): Open Web Foundation REST-based API that provides a complete access to structured geospatial data used by Esri.
+- [Indexed 3D Scene Layers](https://github.com/Esri/i3s-spec): service and package standard of containers for arbitrarily large amounts of geographic data.
+- [Shapefile Format](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf): spec for the geospatial vector data format for GIS software.
+- [Spatial reference specifications](https://developers.arcgis.com/documentation/spatial-references/#spatial-reference-specifications): list of  Well-Known ID (WKID) integer value or a text string definition referred to as Well-Known Text (WKT) to define a spatial reference.
+- [Tile Package Specification](https://github.com/Esri/tile-package-spec): compressed file containing a set of tiles and a tiling scheme, which can be used as a basemap in ArcGIS applications.
+- [Web Map spec](https://developers.arcgis.com/web-map-specification/): sharable 2D maps. It describes the JSON object which defines a web map.
+- [Web Scene spec](https://developers.arcgis.com/web-scene-specification/): A JSON structure that defines the contents (viewpoint, camera, basemap layer, layers, styles...) for a shareable 3D scene.
