@@ -51,7 +51,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 ## Cartographic generalization
 
 - [Distillery](http://shancarter.github.io/distillery/): web application to simplify and project TopoJSON.
-- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): the `maxAllowableOffset` parameter can be used for generalizing geometries returned by the `query` operation.
+- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): `query` operation controls the size of each geometry using two parameters: `quantizationParameters` (reducing the precision of each coordinate) and `maxAllowableOffset` (removing vertices). 
 - [Generalize method](https://bit.ly/2VNPkuO): GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
 - [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html): this operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
 
