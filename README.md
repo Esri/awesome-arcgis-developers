@@ -19,6 +19,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Data integration tools](#data-integration-tools)
 - [Debugging tools](#debugging-tools)
 - [Design](#design)
+- [Playgrounds](#playgrounds)
 - [Related awesome lists](#related-awesome-lists)
 - [Specifications](#specifications)
 
@@ -115,6 +116,13 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Calcite Design System](https://developers.arcgis.com/calcite-design-system/): collection of mapping icons, web components, and good practices.
 - [EsriUK mapstyler](https://github.com/EsriUK/mapstyler): quickly style an Esri vector tile layer using an image.
 - [MapUIPatterns](https://www.mapuipatterns.com/): best practices & design principles. UI Patterns describe solutions to observed and recurring design problems.
+
+## Playgrounds
+
+- [arcgis-arcade-playground](https://developers.arcgis.com/arcade/playground/): try the portable scripting language for creating ArcGIS custom visualizations and labeling expressions.
+- [cim-symbol-builder](https://github.com/Esri/cim-symbol-builder-js): generate CIM symbols to work with ArcGIS client APIs and feature services.
+- [js-symbol-playground 3.x](https://developers.arcgis.com/javascript/3/samples/playground/index.html): generate symbols to work with the ArcGIS API for JavaScript 3.x.
+- [js-symbol-playground 4.x](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/): generate symbols to work with the ArcGIS API for JavaScript 4.x.
 
 ## Related awesome lists
 
