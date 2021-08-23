@@ -65,7 +65,19 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 ## Code samples and snippets
 
 - [ArcGIS API for JavaScript Sample Code](https://developers.arcgis.com/javascript/latest/sample-code/): official Esri's JavaScript API product team samples.
+- [ArcGIS API for Python Sample Notebooks](https://developers.arcgis.com/python/sample-notebooks/): official Esri's Python API product team samples.
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/): search, browse, and use code, scripts, models, add-ins, widgets, and more.
+- [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for .NET Java samples](https://developers.arcgis.com/java/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for .NET Qt samples](https://developers.arcgis.com/qt/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for Android Java samples](https://developers.arcgis.com/android/java/sample-code/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/): official Esri's ArcGIS Runtime product team samples.
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets): Collection of Visual Studio Code snippets for common code patterns.
 - [Esri/developer-support](https://github.com/Esri/developer-support): community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
 - [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) A collection of resources for developers using the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/).
