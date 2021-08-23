@@ -50,7 +50,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [MapboxGL JS](https://developers.arcgis.com/mapbox-gl-js/): guide and tutorials to help you start building web apps with Mapbox and ArcGIS location services.
 - [OpenLayers](https://developers.arcgis.com/openlayers/): guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
 
-## ArcGIS Location Services
+## ArcGIS location services
 
 - [Basemap layer service](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/services/basemap-layer-service/): access streets, satellite, and other basemap styles for maps and scenes.
 - [Elevation service](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm): generate elevation profiles and viewsheds.
