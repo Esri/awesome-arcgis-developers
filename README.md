@@ -19,8 +19,10 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Data integration tools](#data-integration-tools)
 - [Debugging tools](#debugging-tools)
 - [Design](#design)
+- [Playgrounds](#playgrounds)
 - [Related awesome lists](#related-awesome-lists)
 - [Spatial Analysis](#spatial-analysis)
+- [Specifications](#specifications)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -51,7 +53,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 ## Cartographic generalization
 
 - [Distillery](http://shancarter.github.io/distillery/): web application to simplify and project TopoJSON.
-- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): the `maxAllowableOffset` parameter can be used for generalizing geometries returned by the `query` operation.
+- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): `query` operation controls the size of each geometry using two parameters: `quantizationParameters` (reducing the precision of each coordinate) and `maxAllowableOffset` (removing vertices). 
 - [Generalize method](https://bit.ly/2VNPkuO): GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
 - [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html): this operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
 
@@ -116,6 +118,13 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [EsriUK mapstyler](https://github.com/EsriUK/mapstyler): quickly style an Esri vector tile layer using an image.
 - [MapUIPatterns](https://www.mapuipatterns.com/): best practices & design principles. UI Patterns describe solutions to observed and recurring design problems.
 
+## Playgrounds
+
+- [arcgis-arcade-playground](https://developers.arcgis.com/arcade/playground/): try the portable scripting language for creating ArcGIS custom visualizations and labeling expressions.
+- [cim-symbol-builder](https://github.com/Esri/cim-symbol-builder-js): generate CIM symbols to work with ArcGIS client APIs and feature services.
+- [js-symbol-playground 3.x](https://developers.arcgis.com/javascript/3/samples/playground/index.html): generate symbols to work with the ArcGIS API for JavaScript 3.x.
+- [js-symbol-playground 4.x](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/): generate symbols to work with the ArcGIS API for JavaScript 4.x.
+
 ## Related awesome lists
 
 - [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/): awesome list with a wiki flavor with resources about Esri and ArcGIS organized by: products, industries, file formats, content providers, etc.
@@ -138,3 +147,15 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Geometry Engine](https://bit.ly/3iGo6PV): allows you to test spatial relationships, calculate new geometries, and measure lengths, areas, distances, etc. Several APIs include it: ArcGIS API for JavaScript (for browsers and Node.js), ArcGIS API for Python, and the ArcGIS Runtime APIs.
 * [Spatial analysis service](https://developers.arcgis.com/rest/analysis/api-reference/getting-started.htm): process spatial datasets to discover relationships and patterns.
 - [Turf.js](https://www.npmjs.com/package/@turf/simplify): geospatial analysis for browsers and Node.js
+
+## Specifications
+
+- [Cartographic Information Model spec](https://github.com/Esri/cim-spec): map content specification used to persist and transfer cartographic descriptions of GIS datasets represented in JSON.
+- [Common data types](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm): JSON formats of the geometry and spatial reference objects as returned by ArcGIS REST API: Point, Multipoint, Polyline, Polygon and Envelope. 
+- [GeoServices spec](https://github.com/koopjs/FeatureServer): Open Web Foundation REST-based API that provides a complete access to structured geospatial data used by Esri.
+- [Indexed 3D Scene Layers](https://github.com/Esri/i3s-spec): service and package standard of containers for arbitrarily large amounts of geographic data.
+- [Shapefile Format](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf): spec for the geospatial vector data format for GIS software.
+- [Spatial reference specifications](https://developers.arcgis.com/documentation/spatial-references/#spatial-reference-specifications): list of  Well-Known ID (WKID) integer value or a text string definition referred to as Well-Known Text (WKT) to define a spatial reference.
+- [Tile Package Specification](https://github.com/Esri/tile-package-spec): compressed file containing a set of tiles and a tiling scheme, which can be used as a basemap in ArcGIS applications.
+- [Web Map spec](https://developers.arcgis.com/web-map-specification/): sharable 2D maps. It describes the JSON object which defines a web map.
+- [Web Scene spec](https://developers.arcgis.com/web-scene-specification/): A JSON structure that defines the contents (viewpoint, camera, basemap layer, layers, styles...) for a shareable 3D scene.
