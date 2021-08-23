@@ -15,10 +15,10 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Cartographic generalization](#cartographic-generalization)
 - [Code samples and snippets](#code-samples-and-snippets)
 - [Data format conversion tools](#data-format-conversion-tools)
-- [Data exploration and manipulation](#data-exploration-and-manipulation)
 - [Data integration tools](#data-integration-tools)
 - [Debugging tools](#debugging-tools)
 - [Design](#design)
+- [Map and data exploration](#map-and-data-exploration)
 - [Related awesome lists](#related-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -79,15 +79,6 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [togeojson](https://mapbox.github.io/togeojson/): convert KML and GPX to GeoJSON, without the fuss.
 - [tokml](https://github.com/mapbox/tokml): convert GeoJSON to KML.
 
-## Data exploration and manipulation
-
-- [ArcGIS Web Map Viewer](https://www.arcgis.com/apps/mapviewer/index.html): web application to create, explore, and share web maps for 2D applications.
-- [ArcGIS Web Map Viewer (classic version)](https://arcgis.com/home/webmap/viewer.html): web application to create, explore, and share web maps for 2D applications.
-- [ArcGIS Web Scene Viewer](https://www.arcgis.com/home/webscene/viewer.html): web application to create, explore, and share web maps for 3D applications.
-- [geojson.io](https://github.com/mapbox/geojson.io): web application to generate and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and shapefile.
-- [Mapshaper](https://github.com/mbloch/mapshaper): web application to simplify shapes, edit attribute data, clipp, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files. 
-- [Smart Mapping](https://www.esri.com/en-us/smart-mapping): is built-in in the Map and Scene viewer, but some APIs like JavaScript and Python also provide utilities to help building data explorations tools.
-
 ## Data integration tools
 
 - [ArcGIS Data Interoperability Extension](https://esri-es.github.io/awesome-arcgis/arcgis/products/extensions/data-interoperability/): desktop tool to transform +400 data formats. 
@@ -114,6 +105,15 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Calcite Design System](https://developers.arcgis.com/calcite-design-system/): collection of mapping icons, web components, and good practices.
 - [EsriUK mapstyler](https://github.com/EsriUK/mapstyler): quickly style an Esri vector tile layer using an image.
 - [MapUIPatterns](https://www.mapuipatterns.com/): best practices & design principles. UI Patterns describe solutions to observed and recurring design problems.
+
+## Map and data exploration
+
+- [ArcGIS Web Map Viewer](https://www.arcgis.com/apps/mapviewer/index.html): web application to create, explore, and share web maps for 2D applications.
+- [ArcGIS Web Map Viewer (classic version)](https://arcgis.com/home/webmap/viewer.html): web application to create, explore, and share web maps for 2D applications.
+- [ArcGIS Web Scene Viewer](https://www.arcgis.com/home/webscene/viewer.html): web application to create, explore, and share web maps for 3D applications.
+- [geojson.io](https://github.com/mapbox/geojson.io): web application to generate and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and shapefile.
+- [Mapshaper](https://github.com/mbloch/mapshaper): web application to simplify shapes, edit attribute data, clipp, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files. 
+- [Smart Mapping](https://www.esri.com/en-us/smart-mapping): is built-in in the Map and Scene viewer, but some APIs like JavaScript and Python also provide utilities to help building data explorations tools.
 
 ## Related awesome lists
 
