@@ -52,7 +52,6 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 ## ArcGIS Location Services
 
-<<<<<<< HEAD
 - [Basemap layer service](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/services/basemap-layer-service/): access streets, satellite, and other basemap styles for maps and scenes.
 - [Elevation service](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm): generate elevation profiles and viewsheds.
 - [Geocoding service](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/services/geocoding-service/): search for addresses, businesses, and places around the world.
@@ -62,12 +61,6 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Printing tools](https://developers.arcgis.com/rest/services-reference/enterprise/export-web-map-task.htm): generate png, jpg, pdf from advance web maps.
 - [Spatial analysis service](https://developers.arcgis.com/rest/analysis/api-reference/getting-started.htm): process spatial datasets to discover relationships and patterns.
 - [Offline packaging service](https://developers.arcgis.com/rest/packaging/api-reference/create-map-area.htm): create and manage preplanned map areas for generating offline maps.
-=======
-- [Distillery](http://shancarter.github.io/distillery/): web application to simplify and project TopoJSON.
-- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): `query` operation controls the size of each geometry using two parameters: `quantizationParameters` (reducing the precision of each coordinate) and `maxAllowableOffset` (removing vertices). 
-- [Generalize method](https://bit.ly/2VNPkuO): GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
-- [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html): this operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
->>>>>>> b2561861f52174e9dab022049fb7466d702a176b
 
 ## Code samples and snippets
 
@@ -136,8 +129,6 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Search](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/): search for addresses, businesses, and places with the geocoding service.
 - [Security and authentication](https://developers.arcgis.com/documentation/mapping-apis-and-services/security/): access services and content using API keys and OAuth 2.0.
 - [Visualization](https://developers.arcgis.com/documentation/mapping-apis-and-services/visualization/): style layers to visualize data in 2D and 3D.
-
-
 
 ## Map and data exploration
 
