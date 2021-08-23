@@ -139,7 +139,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Maps](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/): display 2D maps and 3D scenes using the basemap layer service and data services.
 - [Offline](https://developers.arcgis.com/documentation/mapping-apis-and-services/offline/): display, analyze, and edit data while disconnected.
 - [Routing](https://developers.arcgis.com/documentation/mapping-apis-and-services/routing/): find routes and directions with the routing service.
-- [Search](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/): search for addresses, businesses, and places with the geocoding service.
+- [Search](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/): search for addresses, businesses, and places of interest (POIs) with the geocoding service.
 - [Security and authentication](https://developers.arcgis.com/documentation/mapping-apis-and-services/security/): access services and content using API keys and OAuth 2.0.
 - [Visualization](https://developers.arcgis.com/documentation/mapping-apis-and-services/visualization/): style layers to visualize data in 2D and 3D.
 
