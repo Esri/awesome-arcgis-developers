@@ -32,6 +32,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/latest/): guides, sample code, API references and showcase to build 2D and 3D interactive web apps unlocking geospatial data.
 - [ArcGIS API for Python](https://developers.arcgis.com/python/): guides, sample notebooks and API reference to do mapping, spatial analysis, data science, geospatial AI and automation using Python.
+- [ArcGIS REST API](https://github.com/esri-es/ArcGIS-REST-API): Postman collections to work with some of the REST APIs: Location services, Hosted Feature Layers, ArcGIS Online, ArcGIS Hub, etc.
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm): guide, API reference and samples to communicate with ArcGIS Earth.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/): guides, API refence and sample code to extent ArcGIS Enterprise.
 - [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/): documentation, tutorials, API reference, FAQ, etc. to extend ArcGIS Pro Desktop.
