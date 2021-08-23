@@ -135,7 +135,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 - [Content management](https://developers.arcgis.com/documentation/mapping-apis-and-services/content-management/): store, manage, and access private and public content.
 - [Data hosting](https://developers.arcgis.com/documentation/mapping-apis-and-services/data-hosting/): store, manage, and access your data as data services.
-- [Demographics](https://developers.arcgis.com/documentation/mapping-apis-and-services/demographics/): discover facts and information with the GeoEnrichment service.
+- [Demographics](https://developers.arcgis.com/documentation/mapping-apis-and-services/demographics/): discover local facts and demographic information with the GeoEnrichment service.
 - [Maps](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/): display 2D maps and 3D scenes using the basemap layer service and data services.
 - [Offline](https://developers.arcgis.com/documentation/mapping-apis-and-services/offline/): display, analyze, and edit data while disconnected.
 - [Routing](https://developers.arcgis.com/documentation/mapping-apis-and-services/routing/): find routes and directions with the routing service.
