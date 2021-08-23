@@ -91,7 +91,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [arcgis-json-to-geojson](https://github.com/gavinr/arcgis-json-to-geojson): convert layer in ArcGIS JSON spec to GeoJSON spec.
 - [csv2geojson](https://viglino.github.io/ol-ext/examples/misc/csv2geojson.html): convert points from CSV format to GeoJSON.
 - [Distillery](http://shancarter.github.io/distillery/): web application to simplify and project TopoJSON.
-- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): the `maxAllowableOffset` parameter can be used for generalizing geometries returned by the `query` operation.
+- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm): Use the `maxAllowableOffset` parameter to return generalized geometries with the `query` operation.
 - [Generalize method](https://bit.ly/2VNPkuO): GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
 - [gdal](https://github.com/OSGeo/gdal): translator library for raster and vector geospatial data formats.
 - [geojson2svg](https://github.com/w8r/geojson2svg): render GeoJSON into SVG using inline or external stylesheet.
