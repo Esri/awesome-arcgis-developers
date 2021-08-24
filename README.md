@@ -12,7 +12,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [APIs and SDKs](#apis-and-sdks)
-- [ArcGIS Location Services](#arcgis-location-services)
+- [ArcGIS location services](#arcgis-location-services)
 - [Code samples and snippets](#code-samples-and-snippets)
 - [Data conversion tools](#data-conversion-tools)
 - [Data integration tools](#data-integration-tools)
