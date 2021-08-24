@@ -21,6 +21,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Design](#design)
 - [Playgrounds](#playgrounds)
 - [Related awesome lists](#related-awesome-lists)
+- [Spatial Analysis](#spatial-analysis)
 - [Specifications](#specifications)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -138,6 +139,21 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets): list of satellite image training datasets with annotations for computer vision and deep learning.
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation): networks by architecture (semantic segmentation, instance aware segmentation, ...), RNN, GANS, datasets, etc.
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles): implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
+
+## Spatial Analysis
+
+- [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop): collection of GIS tools for spatial analysis of big data.
+- [Esri/spatial-framework-for-hadoop](https://github.com/Esri/spatial-framework-for-hadoop): allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.
+- [Client-side Geometry Engine](https://esri-es.github.io/arcgis-search/?search=geometry+engine&utm_source=chrome-extension#gsc.tab=0&gsc.q=geometry%20engine%20site:developers.arcgis.com&gsc.sort=): allows you to test spatial relationships, calculate new geometries, and measure lengths, areas, distances, etc:
+	- [ArcGIS API for JavaScript `geometryEngine`](https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-geometryEngine.html): works for browsers and Node.js.
+	- [ArcGIS API for Python `arcgis.geometry`](https://developers.arcgis.com/python/api-reference/arcgis.geometry.html)
+	- [ArcGIS Runtime API for .NET (Xamarin.iOS and Xamarin.Forms) `GeometryEngine`](https://developers.arcgis.com/net/ios/api-reference/html/Methods_T_Esri_ArcGISRuntime_Geometry_GeometryEngine.htm)
+	- [ArcGIS Runtime API for Android `GeometryEngine`](https://developers.arcgis.com/android/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
+	- [ArcGIS Runtime API for iOS `AGSGeometryEngine`](https://developers.arcgis.com/ios/api-reference/interface_a_g_s_geometry_engine.html)
+	- [ArcGIS Runtime API for Java `GeometryEngine`](https://developers.arcgis.com/java/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
+	- [ArcGIS Runtime API for Qt `GeometryEngine`](https://developers.arcgis.com/qt/cpp/api-reference/esri-arcgisruntime-geometryengine.html)
+* [Spatial analysis service](https://developers.arcgis.com/rest/analysis/api-reference/getting-started.htm): process spatial datasets to discover relationships and patterns.
+- [Turf.js](https://www.npmjs.com/package/@turf/simplify): geospatial analysis for browsers and Node.js
 
 ## Specifications
 
