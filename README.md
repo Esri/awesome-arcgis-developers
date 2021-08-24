@@ -65,7 +65,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 ## Code samples and snippets
 
-- [ArcGIS API for JavaScript Sample Code](https://developers.arcgis.com/javascript/latest/sample-code/): official Esri's JavaScript API product team samples.
+- [ArcGIS API for JavaScript Sample Code](https://developers.arcgis.com/javascript/latest/sample-code/): Esri's official JavaScript API product team samples.
 - [ArcGIS API for Python Sample Notebooks](https://developers.arcgis.com/python/sample-notebooks/): Esri's official Python API product team samples.
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/): search, browse, and use code, scripts, models, add-ins, widgets, and more.
 - [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos): demo apps build by the Esri's REST JS maintainers.
