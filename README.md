@@ -179,7 +179,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code): tools, tutorials, code, helpful projects and links about Earth Observation and Geospatial stuff.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson): GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
 - [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial): databases, radar, lidar, web map development, etc.
-- [awesome-gis](https://github.com/sshuair/awesome-gis): GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards , data, etc.
+- [awesome-gis](https://github.com/sshuair/awesome-gis): GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
 - [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets): JSON datasets that don't require authentication about: climate, crime, goverment, NASA, travel, etc.
 - [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience): curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): a topic-centric list of high-quality open datasets.
