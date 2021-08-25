@@ -71,7 +71,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos): demo apps built by Esri's REST JS maintainers.
 - [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/): Esri's official ArcGIS Runtime Android product team samples.
 - [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/): Esri's official ArcGIS Runtime .NET product team samples.
-- [ArcGIS Runtime API for .NET Java samples](https://developers.arcgis.com/java/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for Java samples](https://developers.arcgis.com/java/): Esri's official ArcGIS Runtime Java product team samples.
 - [ArcGIS Runtime API for .NET Qt samples](https://developers.arcgis.com/qt/): official Esri's ArcGIS Runtime product team samples.
 - [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/): official Esri's ArcGIS Runtime product team samples.
 - [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/): official Esri's ArcGIS Runtime product team samples.
