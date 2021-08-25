@@ -69,7 +69,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [ArcGIS API for Python Sample Notebooks](https://developers.arcgis.com/python/sample-notebooks/): Esri's official Python API product team samples.
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/): search, browse, and use code, scripts, models, add-ins, widgets, and more.
 - [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos): demo apps built by Esri's REST JS maintainers.
-- [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/): Esri's official ArcGIS Runtime Android product team samples.
 - [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/): official Esri's ArcGIS Runtime product team samples.
 - [ArcGIS Runtime API for .NET Java samples](https://developers.arcgis.com/java/): official Esri's ArcGIS Runtime product team samples.
 - [ArcGIS Runtime API for .NET Qt samples](https://developers.arcgis.com/qt/): official Esri's ArcGIS Runtime product team samples.
