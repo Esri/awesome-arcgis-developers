@@ -153,7 +153,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 ## Helpers
 
 - [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper): web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.
-- [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper):  web application to get the map extent JSON object ... web apps in the ArcGIS API for JavaScript 4.x.
+- [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper):  web application to get the map extent JSON object for web apps in the ArcGIS API for JavaScript 4.x.
 
 
 ## Map and data exploration
