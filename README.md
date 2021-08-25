@@ -72,7 +72,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/): Esri's official ArcGIS Runtime Android product team samples.
 - [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/): Esri's official ArcGIS Runtime .NET product team samples.
 - [ArcGIS Runtime API for Java samples](https://developers.arcgis.com/java/): Esri's official ArcGIS Runtime Java product team samples.
-- [ArcGIS Runtime API for .NET Qt samples](https://developers.arcgis.com/qt/): official Esri's ArcGIS Runtime product team samples.
+- [ArcGIS Runtime API for Qt samples](https://developers.arcgis.com/qt/): Esri's official ArcGIS Runtime Qt (C++ and QML) product team samples.
 - [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/): official Esri's ArcGIS Runtime product team samples.
 - [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/): official Esri's ArcGIS Runtime product team samples.
 - [ArcGIS Runtime API for Android Java samples](https://developers.arcgis.com/android/java/sample-code/): official Esri's ArcGIS Runtime product team samples.
