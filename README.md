@@ -19,6 +19,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Debugging tools](#debugging-tools)
 - [Design and styling](#design-and-styling)
 - [Developer guides](#developer-guides)
+- [Helpers](#helpers)
 - [Map and data exploration](#map-and-data-exploration)
 - [Playgrounds](#playgrounds)
 - [Related awesome lists](#related-awesome-lists)
@@ -149,6 +150,12 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Security and authentication](https://developers.arcgis.com/documentation/mapping-apis-and-services/security/): access services and content using API keys and OAuth 2.0.
 - [Visualization](https://developers.arcgis.com/documentation/mapping-apis-and-services/visualization/): style layers to visualize data in 2D and 3D.
 
+## Helpers
+
+- [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper): web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.
+- [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper):  web application to get the map extent JSON object ... web apps in the ArcGIS API for JavaScript 4.x.
+
+
 ## Map and data exploration
 
 - [ArcGIS Map Viewer](https://www.arcgis.com/apps/mapviewer/index.html): web application to create, explore, and share web maps for 2D applications.
@@ -162,6 +169,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 - [arcgis-arcade-playground](https://developers.arcgis.com/arcade/playground/): try the portable scripting language for creating ArcGIS custom visualizations and labeling expressions.
 - [cim-symbol-builder](https://github.com/Esri/cim-symbol-builder-js): generate CIM symbols to work with ArcGIS client APIs and feature services.
+- [geometry-inspector](http://brianbunker.github.io/geometry-inspector/): quickly show EsriJSON, GeoJSON, or WKT on a map, or draw on a map to get EsriJSON, GeoJSON, or WKT.
 - [js-symbol-playground 3.x](https://developers.arcgis.com/javascript/3/samples/playground/index.html): generate symbols to work with the ArcGIS API for JavaScript 3.x.
 - [js-symbol-playground 4.x](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/): generate symbols to work with the ArcGIS API for JavaScript 4.x.
 
