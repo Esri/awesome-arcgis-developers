@@ -24,6 +24,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Related awesome lists](#related-awesome-lists)
 - [Spatial Analysis](#spatial-analysis)
 - [Specifications](#specifications)
+- [Starter apps and CLIs](#starter-apps-and-clis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -66,6 +67,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 ## Code samples and snippets
 
+- [application-base-js](https://github.com/Esri/application-base-js): core class for creating a configurable application using JavaScript/TypeScript.
 - [ArcGIS API for JavaScript Sample Code](https://developers.arcgis.com/javascript/latest/sample-code/): Esri's official JavaScript API product team samples.
 - [ArcGIS API for Python Sample Notebooks](https://developers.arcgis.com/python/sample-notebooks/): Esri's official Python API product team samples.
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/): search, browse, and use code, scripts, models, add-ins, widgets, and more.
@@ -81,12 +83,14 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/): Esri's official ArcGIS Runtime iOS product team samples.
 - [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/): Esri's official ArcGIS Runtime Qt product team samples for C++.
 - [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/): Esri's official ArcGIS Runtime Qt product team samples for QML.
+- [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps): collection of boilerplates to get started with the ArcGIS API for JavaScript 4.x.
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets): Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
 - [Esri/developer-support](https://github.com/Esri/developer-support): community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
 - [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) A collection of resources for developers using the ArcGIS API for JavaScript.
 - [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps): shows cool example maps you can use.
 - [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts): Esri Netherlands scripts and snippets for reuse.
 - [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js): A collection of code snippets for ArcGIS API for JavaScript.
+
 
 ## Data conversion tools
 
@@ -194,7 +198,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 ## Specifications
 
 - [Cartographic Information Model spec](https://github.com/Esri/cim-spec): map content specification used to persist and transfer cartographic descriptions of GIS datasets represented in JSON.
-- [Common data types](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm): JSON formats of the geometry and spatial reference objects as returned by ArcGIS REST API: Point, Multipoint, Polyline, Polygon and Envelope. 
+- [Common data types](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm): JSON formats of the geometry and spatial reference objects as returned by ArcGIS REST API: Point, Multipoint, Polyline, Polygon and Envelope.
 - [GeoServices spec](https://github.com/koopjs/FeatureServer): Open Web Foundation REST-based API that provides a complete access to structured geospatial data used by Esri.
 - [Indexed 3D Scene Layers](https://github.com/Esri/i3s-spec): service and package standard of containers for arbitrarily large amounts of geographic data.
 - [Shapefile Format](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf): spec for the geospatial vector data format for GIS software.
@@ -202,3 +206,9 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Tile Package Specification](https://github.com/Esri/tile-package-spec): compressed file containing a set of tiles and a tiling scheme, which can be used as a basemap in ArcGIS applications.
 - [Web Map spec](https://developers.arcgis.com/web-map-specification/): sharable 2D maps. It describes the JSON object which defines a web map.
 - [Web Scene spec](https://developers.arcgis.com/web-scene-specification/): A JSON structure that defines the contents (viewpoint, camera, basemap layer, layers, styles...) for a shareable 3D scene.
+
+## Starter apps and CLIs
+
+- [@arcgis/cli](https://github.com/Esri/arcgis-js-cli): quickly scaffold various applications for the ArcGIS API for JavaScript.
+- [generator-esri-appbuilder-js](https://github.com/Esri/generator-esri-appbuilder-js): Yeoman generator to help customize Esri's Web AppBuilder.
+- [koop-cli](https://github.com/koopjs/koop-cli): tool to scaffold Koop applications and plugins.
