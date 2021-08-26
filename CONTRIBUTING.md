@@ -1,13 +1,13 @@
-Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/esri/contributing).
+# Contributing guidelines
 
-### I want to contribute, what should I work on?
+These are the rules that applies to new pull requests:
 
-Any open issues are fair game. Even just telling us what you want to see would be extremely helpful!
+- Use the following format: [Item Name](link) - A short description ends with a period (Keep descriptions concise).
+- Link additions should be added in alphabetical order of the relevant category.
+- Should only have one level of nested lists, preferably none.
+- Don't add more than one link per line.
+- Make an individual pull request for each suggestion.
+- New categories or naming improvements to the existing categorization are welcome.
+- Third-party tools/resources that can be combined or complements the ArcGIS Platform are welcome, they just need to have an open source or freemium version.
 
-You can [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issues/new) to request a new feature or report a bug, or you can [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) to propose an update.
-
-### Before filing an issue
-
-If something isn't working the way you expected, please take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues) first.  Have you found a new bug?  Want to request a new feature?  Please [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issues/new), we would love to hear from you.
-
-If you're looking for help you can also post issues on [GIS Stackexchange](http://gis.stackexchange.com/questions/ask?tags=esri-oss) or [Esri Community](https://community.esri.com/t5/developers-questions/bd-p/developers-questions).
+Keep in mind that this repository is mainly targeted to developers new to [ArcGIS Platform](https://developers.arcgis.com/documentation/mapping-apis-and-services/arcgis-platform/) with no geographic information systems background. Because of this, we are not including advance tools like Desktop applications that requires a GIS background.
