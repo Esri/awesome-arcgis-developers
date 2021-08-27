@@ -2,8 +2,6 @@
 
 An awesome set of resources to help you with ArcGIS Platform development, APIs, SDKs, tools, and location services.
 
-> **Notes**: [Code of conduct](CODE_OF_CONDUCT.md) | [Contributing](CONTRIBUTING.md) | Licensed under the [Apache 2.0 license](LICENSE.md).
-
 ---
 
 **TABLE OF CONTENTS**
@@ -220,3 +218,39 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [@arcgis/cli](https://github.com/Esri/arcgis-js-cli): quickly scaffold various applications for the ArcGIS API for JavaScript.
 - [generator-esri-appbuilder-js](https://github.com/Esri/generator-esri-appbuilder-js): Yeoman generator to help customize Esri's Web AppBuilder.
 - [koop-cli](https://github.com/koopjs/koop-cli): tool to scaffold Koop applications and plugins.
+
+---
+
+# Issues
+
+Any open issues are fair game. Even just telling us what you want to see would be extremely helpful!
+
+You can [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issues/new) to request or suggest a specific resource.
+
+# Contributing
+
+Esri welcomes contributions from anyone and everyone. You can [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) to propose an update, but before doing it, please:
+
+- Check the [contributing guidelines for this repo](./CONTRIBUTING.md).
+- Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues). 
+
+For more information please see our [guidelines for contributing](https://github.com/esri/contributing).
+
+
+# Licensing
+
+Copyright 2016 Esri
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+A copy of the license is available in the repository's [license.txt](./license.txt) file.
