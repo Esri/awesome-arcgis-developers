@@ -59,7 +59,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Geocoding service](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/services/geocoding-service/) - Search for addresses, businesses, and places around the world.
 - [GeoEnrichment service](https://developers.arcgis.com/documentation/mapping-apis-and-services/demographics/services/geoenrichment-service/) - Find facts and demographic information about a location or area.
 - [Routing service](https://developers.arcgis.com/documentation/mapping-apis-and-services/routing/services/routing-service/) - Get turn-by-turn directions and solve advanced routing problems.
-- [Printing tools](https://developers.arcgis.com/rest/services-reference/enterprise/export-web-map-task.htm) - Generate png, jpg, pdf from advance web maps.
+- [Printing tools service](https://developers.arcgis.com/rest/services-reference/enterprise/export-web-map-task.htm) - Generate static maps (png, jpg, pdf, etc.) from advance web maps.
 <!--lint disable double-link-->
 - [Spatial analysis service](https://developers.arcgis.com/rest/analysis/api-reference/getting-started.htm) - Process spatial datasets to discover relationships and patterns.
 - [Offline packaging service](https://developers.arcgis.com/rest/packaging/api-reference/create-map-area.htm) - Create and manage preplanned map areas for generating offline maps.
