@@ -55,12 +55,12 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 ## ArcGIS location services
 
 - [Basemap layer service](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/services/basemap-layer-service/) - Access streets, satellite, and other basemap styles for maps and scenes.
-- [Elevation service](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm) - Generate elevation profiles and viewsheds.
+- [Elevation and hydrology services](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm) - Generate elevation profiles and viewsheds, but also can trace water flow and generate watersheds.
 - [Geocoding service](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/services/geocoding-service/) - Search for addresses, businesses, and places around the world.
 - [GeoEnrichment service](https://developers.arcgis.com/documentation/mapping-apis-and-services/demographics/services/geoenrichment-service/) - Find facts and demographic information about a location or area.
-- [Hydrology service](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm#ESRI_SECTION2_1AD85EFEA28349A8987317953281F08C) - Trace water flow and generate watersheds.
 - [Routing service](https://developers.arcgis.com/documentation/mapping-apis-and-services/routing/services/routing-service/) - Get turn-by-turn directions and solve advanced routing problems.
 - [Printing tools](https://developers.arcgis.com/rest/services-reference/enterprise/export-web-map-task.htm) - Generate png, jpg, pdf from advance web maps.
+<!--lint disable double-link-->
 - [Spatial analysis service](https://developers.arcgis.com/rest/analysis/api-reference/getting-started.htm) - Process spatial datasets to discover relationships and patterns.
 - [Offline packaging service](https://developers.arcgis.com/rest/packaging/api-reference/create-map-area.htm) - Create and manage preplanned map areas for generating offline maps.
 
@@ -74,7 +74,6 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/) - Esri's official ArcGIS Runtime Android product team samples.
 - [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
 - [ArcGIS Runtime API for Java samples](https://developers.arcgis.com/java/sample-code/) - Esri's official ArcGIS Runtime Java product team samples.
-- [ArcGIS Runtime API for Qt samples](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri's official ArcGIS Runtime Qt (C++ and QML) product team samples.
 - [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
 - [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
 - [ArcGIS Runtime API for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri's official ArcGIS Runtime Android product team samples for Java.
