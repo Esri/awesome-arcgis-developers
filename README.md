@@ -1,10 +1,10 @@
-# Awesome ArcGIS Developer
+# Awesome ArcGIS Developer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An awesome set of resources to help you with ArcGIS Platform development, APIs, SDKs, tools, and location services.
 
 ---
 
-**TABLE OF CONTENTS**
+## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -116,7 +116,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Integromat](https://www.integromat.com/en/integrations/survey123) - iPaaS to automate repetitive tasks involved in using Survey123 and make your work easier.
 - [node-red-contrib-arcgis-rest](https://flows.nodered.org/node/node-red-contrib-arcgis-rest) - Query, delete, update or insert data with low-code programming for event-driven applications of the JS Foundation.
 - [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38) - iPaaS to automate integrations without writing any code.
-- [Tray.io](https://tray.io/connectors/arcgis-integrations) - Manual, scheduled and webhook triggers to apply edits, get features, layers, etc. using Tray Platform\’s ArcGIS connector.
+- [Tray.io](https://tray.io/connectors/arcgis-integrations) - Manual, scheduled and webhook triggers to apply edits, get features, layers, etc. using Tray Platform's ArcGIS connector.
 
 ## Debugging tools
 
@@ -190,7 +190,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 - [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop) - Collection of GIS tools for spatial analysis of big data.
 - [Esri/spatial-framework-for-hadoop](https://github.com/Esri/spatial-framework-for-hadoop) - Allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.
-- [Client-side Geometry Engine](https://esri-es.github.io/arcgis-search/?search=geometry+engine&utm_source=chrome-extension#gsc.tab=0&gsc.q=geometry%20engine%20site:developers.arcgis.com&gsc.sort=) - Allows you to test spatial relationships, calculate new geometries, and measure lengths, areas, distances, etc:
+- [Client-side Geometry Engine](https://esri-es.github.io/arcgis-search/?search=geometry+engine&utm_source=chrome-extension#gsc.tab=0&gsc.q=geometry%20engine%20site:developers.arcgis.com&gsc.sort=) - Allows you to test spatial relationships, calculate new geometries, and measure lengths, areas, distances, etc.
 	- [ArcGIS API for JavaScript `geometryEngine`](https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-geometryEngine.html) - Works for browsers and Node.js.
 	- [ArcGIS API for Python `arcgis.geometry`](https://developers.arcgis.com/python/api-reference/arcgis.geometry.html)
 	- [ArcGIS Runtime API for .NET (Xamarin.iOS and Xamarin.Forms) `GeometryEngine`](https://developers.arcgis.com/net/ios/api-reference/html/Methods_T_Esri_ArcGISRuntime_Geometry_GeometryEngine.htm)
@@ -236,7 +236,7 @@ Esri welcomes contributions from anyone and everyone. You can [issue a pull requ
 
 For more information please see our [guidelines for contributing](https://github.com/esri/contributing).
 
-
+<!--lint disable no-emphasis-as-heading-->
 **Licensing**
 
 Copyright 2016 Esri
@@ -253,4 +253,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-A copy of the license is available in the repository's [license.txt](./license.txt) file.
+A copy of the license is available in the repository's [license.txt](https://github.com/Esri/awesome-arcgis-developer/blob/main/License.txt) file.
