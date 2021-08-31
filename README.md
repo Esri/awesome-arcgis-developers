@@ -92,21 +92,23 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 ## Data conversion tools
 
-- [arcgis-json-to-geojson](https://github.com/gavinr/arcgis-json-to-geojson) - Convert layer in ArcGIS JSON spec to GeoJSON spec.
-- [csv2geojson](https://viglino.github.io/ol-ext/examples/misc/csv2geojson.html) - Convert points from CSV format to GeoJSON.
-- [Distillery](http://shancarter.github.io/distillery/) - Web application to simplify and project TopoJSON.
-- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm) - Use the `maxAllowableOffset` parameter to return generalized geometries with the `query` operation.
-- [Generalize method](https://bit.ly/2VNPkuO) - GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
-- [gdal](https://github.com/OSGeo/gdal) - Translator library for raster and vector geospatial data formats.
-- [geojson2svg](https://github.com/w8r/geojson2svg) - Render GeoJSON into SVG using inline or external stylesheet.
-- [geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to and from GeoJSON and TopoJSON.
-- [gtfs2geojson](https://github.com/node-geojson/gtfs2geojson) - Convert GTFS data into GeoJSON.
-- [Koop](https://koopjs.github.io) - JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, vector tiles, feature services and more.
-- [loam](https://github.com/azavea/loam) - JavaScript wrapper for GDAL in the browser.
-- [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
-- [terraformer](https://github.com/terraformer-js/terraformer) - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
-- [togeojson](https://mapbox.github.io/togeojson/) - Convert KML and GPX to GeoJSON, without the fuss.
-- [tokml](https://github.com/mapbox/tokml) - Convert GeoJSON to KML.
+- Geometry transformation:
+	- [Distillery](http://shancarter.github.io/distillery/) - Web application to simplify and project TopoJSON.
+	- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm) - Use the `maxAllowableOffset` parameter to return generalized geometries with the `query` operation.
+	- [Generalize method](https://bit.ly/2VNPkuO) - GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
+	- [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
+- Format conversion:
+	- [arcgis-json-to-geojson](https://github.com/gavinr/arcgis-json-to-geojson) - Convert layer in ArcGIS JSON spec to GeoJSON spec.
+	- [csv2geojson](https://viglino.github.io/ol-ext/examples/misc/csv2geojson.html) - Convert points from CSV format to GeoJSON.
+	- [gdal](https://github.com/OSGeo/gdal) - Translator library for raster and vector geospatial data formats.
+	- [geojson2svg](https://github.com/w8r/geojson2svg) - Render GeoJSON into SVG using inline or external stylesheet.
+	- [geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to and from GeoJSON and TopoJSON.
+	- [gtfs2geojson](https://github.com/node-geojson/gtfs2geojson) - Convert GTFS data into GeoJSON.
+	- [Koop](https://koopjs.github.io) - JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, vector tiles, feature services and more.
+	- [loam](https://github.com/azavea/loam) - JavaScript wrapper for GDAL in the browser.
+	- [terraformer](https://github.com/terraformer-js/terraformer) - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
+	- [togeojson](https://mapbox.github.io/togeojson/) - Convert KML and GPX to GeoJSON, without the fuss.
+	- [tokml](https://github.com/mapbox/tokml) - Convert GeoJSON to KML.
 
 ## Data integration tools
 
