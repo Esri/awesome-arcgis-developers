@@ -16,8 +16,8 @@
     "url": "git+https://github.com/Esri/awesome-arcgis-developer.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Raul Jimenez <rjimenez@esri.com>",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/Esri/awesome-arcgis-developer/issues"
   },
