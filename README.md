@@ -66,29 +66,35 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 ## Code samples and snippets
 
-- [application-base-js](https://github.com/Esri/application-base-js) - Core class for creating a configurable application using JavaScript/TypeScript.
-- [ArcGIS API for JavaScript Sample Code](https://developers.arcgis.com/javascript/latest/sample-code/) - Esri's official JavaScript API product team samples.
-- [ArcGIS API for Python Sample Notebooks](https://developers.arcgis.com/python/sample-notebooks/) - Esri's official Python API product team samples.
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/) - Search, browse, and use code, scripts, models, add-ins, widgets, and more.
-- [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) - Demo apps built by Esri's REST JS maintainers.
-- [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/) - Esri's official ArcGIS Runtime Android product team samples.
-- [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
-- [ArcGIS Runtime API for Java samples](https://developers.arcgis.com/java/sample-code/) - Esri's official ArcGIS Runtime Java product team samples.
-- [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
-- [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
-- [ArcGIS Runtime API for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri's official ArcGIS Runtime Android product team samples for Java.
-- [ArcGIS Runtime API for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/) - Esri's official ArcGIS Runtime Android product team samples for Kotlin.
-- [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri's official ArcGIS Runtime iOS product team samples.
-- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri's official ArcGIS Runtime Qt product team samples for C++.
-- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri's official ArcGIS Runtime Qt product team samples for QML.
-- [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) - Collection of boilerplates to get started with the ArcGIS API for JavaScript 4.x.
-- [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
 - [Esri/developer-support](https://github.com/Esri/developer-support) - Community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
-- [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) - A collection of resources for developers using the ArcGIS API for JavaScript.
-- [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps) - Shows cool example maps you can use.
 - [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts) - Esri Netherlands scripts and snippets for reuse.
-- [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) - A collection of code snippets for ArcGIS API for JavaScript.
-
+- .NET:
+	- [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/) - Esri's official ArcGIS Runtime Android product team samples.
+	- [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
+	- [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
+	- [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
+- Android:
+	- [ArcGIS Runtime API for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri's official ArcGIS Runtime Android product team samples for Java.
+	- [ArcGIS Runtime API for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/) - Esri's official ArcGIS Runtime Android product team samples for Kotlin.
+- iOS:
+	- [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri's official ArcGIS Runtime iOS product team samples.
+- Java:
+	- [ArcGIS Runtime API for Java samples](https://developers.arcgis.com/java/sample-code/) - Esri's official ArcGIS Runtime Java product team samples.
+- JavaScript:
+	- [application-base-js](https://github.com/Esri/application-base-js) - Core class for creating ArcGIS configurable applications using JavaScript/TypeScript.
+	- [ArcGIS API for JavaScript Sample Code](https://developers.arcgis.com/javascript/latest/sample-code/) - Esri's official JavaScript API product team samples.
+	- [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) - Demo apps built by Esri's REST JS maintainers.
+	- [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) - Collection of boilerplates to get started with the ArcGIS API for JavaScript 4.x.
+	- [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
+	- [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) - A collection of resources for developers using the ArcGIS API for JavaScript.
+	- [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) - A collection of code snippets for ArcGIS API for JavaScript.
+- Python:
+	- [ArcGIS API for Python Sample Notebooks](https://developers.arcgis.com/python/sample-notebooks/) - Esri's official Python API product team samples.
+	- [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps) - Shows cool example maps you can use.
+- Qt:
+	- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri's official ArcGIS Runtime Qt product team samples for C++.
+	- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri's official ArcGIS Runtime Qt product team samples for QML.
 
 ## Data conversion tools
 
