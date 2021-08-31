@@ -1,0 +1,25 @@
+{
+  "name": "awesome-arcgis-developer",
+  "version": "1.0.0",
+  "description": "An awesome set of resources to help you with ArcGIS Platform development, APIs, SDKs, tools, and location services.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "awesome-lint": "^0.18.0"
+  },
+  "scripts": {
+    "lint": "awesome-lint README.md",
+    "remote-lint": "awesome-lint https://github.com/Esri/awesome-arcgis-developer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esri/awesome-arcgis-developer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esri/awesome-arcgis-developer/issues"
+  },
+  "homepage": "https://github.com/Esri/awesome-arcgis-developer#readme"
+}
