@@ -10,6 +10,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [APIs and SDKs](#apis-and-sdks)
+- [Application generators and CLIs](#application-generators-and-clis)
 - [ArcGIS location services](#arcgis-location-services)
 - [Code samples and snippets](#code-samples-and-snippets)
 - [Data conversion tools](#data-conversion-tools)
@@ -23,7 +24,6 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Related awesome lists](#related-awesome-lists)
 - [Spatial Analysis](#spatial-analysis)
 - [Specifications](#specifications)
-- [Starter apps and CLIs](#starter-apps-and-clis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -51,6 +51,12 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/) - Key concepts, tutorials, API reference, plugins, sample code to help you build web apps using Leaflet with ArcGIS Location services.
 - [Mapbox GL JS](https://developers.arcgis.com/mapbox-gl-js/) - Guide and tutorials to help you start building web apps with Mapbox and ArcGIS location services.
 - [OpenLayers](https://developers.arcgis.com/openlayers/) - Guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
+
+## Application generators and CLIs
+
+- [@arcgis/cli](https://github.com/Esri/arcgis-js-cli) - Quickly scaffold various applications for the ArcGIS API for JavaScript.
+- [generator-esri-appbuilder-js](https://github.com/Esri/generator-esri-appbuilder-js) - Yeoman generator to help customize Esri's Web AppBuilder.
+- [koop-cli](https://github.com/koopjs/koop-cli) - Tool to scaffold Koop applications and plugins.
 
 ## ArcGIS location services
 
@@ -101,8 +107,8 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [geojson2svg](https://github.com/w8r/geojson2svg) - Render GeoJSON into SVG using inline or external stylesheet.
 - [geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to and from GeoJSON and TopoJSON.
 - [gtfs2geojson](https://github.com/node-geojson/gtfs2geojson) - Convert GTFS data into GeoJSON.
-- [Koop](https://koopjs.github.io) - JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, vector tiles, feature services and more.
 - [loam](https://github.com/azavea/loam) - JavaScript wrapper for GDAL in the browser.
+- [Mapshaper](https://github.com/mbloch/mapshaper) - Web application to simplify shapes, edit attribute data, clipp, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files. 
 - [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
 - [terraformer](https://github.com/terraformer-js/terraformer) - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
 - [togeojson](https://mapbox.github.io/togeojson/) - Convert KML and GPX to GeoJSON, without the fuss.
@@ -113,6 +119,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [ArcGIS Data Interoperability Extension](https://esri-es.github.io/awesome-arcgis/arcgis/products/extensions/data-interoperability/) - Desktop tool to transform +400 data formats. 
 - [FME Server](https://www.safe.com/integrate/) - ETL allowing to easily transform almost any dataset into an ArcGIS compatible format and vice-versa. Support for 500+ formats and technologies.
 - [Integromat](https://www.integromat.com/en/integrations/survey123) - iPaaS to automate repetitive tasks involved in using Survey123 and make your work easier.
+- [Koop](https://koopjs.github.io) - JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, vector tiles, feature services and more.
 - [node-red-contrib-arcgis-rest](https://flows.nodered.org/node/node-red-contrib-arcgis-rest) - Query, delete, update or insert data with low-code programming for event-driven applications of the JS Foundation.
 - [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38) - iPaaS to automate integrations without writing any code.
 - [Tray.io](https://tray.io/connectors/arcgis-integrations) - Manual, scheduled and webhook triggers to apply edits, get features, layers, etc. using Tray Platform's ArcGIS connector.
@@ -152,14 +159,12 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - Web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.
 - [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper) -  Web application to get the map extent JSON object for web apps in the ArcGIS API for JavaScript 4.x.
 
-
 ## Map and data exploration
 
 - [ArcGIS Map Viewer](https://www.arcgis.com/apps/mapviewer/index.html) - Web application to create, explore, and share web maps for 2D applications.
 - [ArcGIS Map Viewer (classic version)](https://arcgis.com/home/webmap/viewer.html) - Web application to create, explore, and share web maps for 2D applications.
 - [ArcGIS Scene Viewer](https://www.arcgis.com/home/webscene/viewer.html) - Web application to create, explore, and share web maps for 3D applications.
 - [geojson.io](https://github.com/mapbox/geojson.io) - Web application to generate and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and shapefile.
-- [Mapshaper](https://github.com/mbloch/mapshaper) - Web application to simplify shapes, edit attribute data, clipp, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files. 
 - [Smart Mapping](https://www.esri.com/en-us/smart-mapping) - It is built-in in the Map and Scene viewer, but some APIs like JavaScript and Python also provide utilities to help building data explorations tools.
 
 ## Playgrounds
@@ -212,12 +217,6 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Tile Package Specification](https://github.com/Esri/tile-package-spec) - Compressed file containing a set of tiles and a tiling scheme, which can be used as a basemap in ArcGIS applications.
 - [Web Map spec](https://developers.arcgis.com/web-map-specification/) - Sharable 2D maps. It describes the JSON object which defines a web map.
 - [Web Scene spec](https://developers.arcgis.com/web-scene-specification/) - A JSON structure that defines the contents (viewpoint, camera, basemap layer, layers, styles, etc.) for a shareable 3D scene.
-
-## Starter apps and CLIs
-
-- [@arcgis/cli](https://github.com/Esri/arcgis-js-cli) - Quickly scaffold various applications for the ArcGIS API for JavaScript.
-- [generator-esri-appbuilder-js](https://github.com/Esri/generator-esri-appbuilder-js) - Yeoman generator to help customize Esri's Web AppBuilder.
-- [koop-cli](https://github.com/koopjs/koop-cli) - Tool to scaffold Koop applications and plugins.
 
 ---
 
