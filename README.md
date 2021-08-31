@@ -158,7 +158,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [ArcGIS Map Viewer](https://www.arcgis.com/apps/mapviewer/index.html) - Web application to create, explore, and share web maps for 2D applications.
 - [ArcGIS Map Viewer (classic version)](https://arcgis.com/home/webmap/viewer.html) - Web application to create, explore, and share web maps for 2D applications.
 - [ArcGIS Scene Viewer](https://www.arcgis.com/home/webscene/viewer.html) - Web application to create, explore, and share web maps for 3D applications.
-- [geojson.io](https://github.com/mapbox/geojson.io) - Web application to generate and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and shapefile.
+- [geojson.io](https://github.com/mapbox/geojson.io) - Web application to visualize, generate and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and shapefile.
 - [Mapshaper](https://github.com/mbloch/mapshaper) - Web application to simplify shapes, edit attribute data, clipp, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files. 
 - [Smart Mapping](https://www.esri.com/en-us/smart-mapping) - It is built-in in the Map and Scene viewer, but some APIs like JavaScript and Python also provide utilities to help building data explorations tools.
 
