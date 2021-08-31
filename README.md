@@ -85,6 +85,7 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
 - [Esri/developer-support](https://github.com/Esri/developer-support) - Community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
 - [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) - A collection of resources for developers using the ArcGIS API for JavaScript.
+- [esri-loader Examples](https://github.com/Esri/esri-loader#examples) - Examples of how to use the ArcGIS API for Javascript via esri-loader in applications built with React, Angular, Vue, and other frameworks.
 - [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps) - Shows cool example maps you can use.
 - [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts) - Esri Netherlands scripts and snippets for reuse.
 - [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) - A collection of code snippets for ArcGIS API for JavaScript.
@@ -151,7 +152,9 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 
 - [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - Web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.
 - [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper) -  Web application to get the map extent JSON object for web apps in the ArcGIS API for JavaScript 4.x.
-
+- [esri-loader](https://github.com/Esri/esri-loader) - A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e. from the CDN) in applications built with popular JavaScript frameworks and bundlers.
+- [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - Custom React hooks for using the ArcGIS API for JavaScript with esri-loader.
+- [react-arcgis](https://github.com/Esri/react-arcgis) - A library with a few ready to use React components (`<Map />`, `<Scene />`, `<WebMap />`, and `<WebScene />`) to get you started using the ArcGIS API for JavaScript in your React application.
 
 ## Map and data exploration
 
