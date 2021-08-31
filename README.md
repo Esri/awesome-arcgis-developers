@@ -130,9 +130,9 @@ An awesome set of resources to help you with ArcGIS Platform development, APIs, 
 ## Design and styling
 
 - Best practices, books, videos and training:
-	- [Cartography and Making Stunning Maps](https://www.youtube.com/watch?v=AGf_DjZZwXc): short video showing some examples on what can be achieved using different blend modes effects.
-	- [How to style using ArcGIS Online](https://www.youtube.com/watch?v=6vy-kVkIcRg&list=PLPjPOZQjCWEn6ezKrwN11L8NWhZ2JdpYd): playlist with a collection of short videos showcasing some ArcGIS styling capabilities.
-	- [Photoshop-style Graphics Effects for Your Layers and Data](https://www.youtube.com/watch?v=crmWm80hwKI): video explaining how to use blend modes as well as layer and feature effects to create unique and stunning web maps using the ArcGIS API for JavaScript 4.x. 
+	- [Cartography and Making Stunning Maps](https://www.youtube.com/watch?v=AGf_DjZZwXc) - Short video showing some examples on what can be achieved using different blend modes effects.
+	- [How to style using ArcGIS Online](https://www.youtube.com/watch?v=6vy-kVkIcRg&list=PLPjPOZQjCWEn6ezKrwN11L8NWhZ2JdpYd) - Playlist with a collection of short videos showcasing some ArcGIS styling capabilities.
+	- [Photoshop-style Graphics Effects for Your Layers and Data](https://www.youtube.com/watch?v=crmWm80hwKI) - Video explaining how to use blend modes as well as layer and feature effects to create unique and stunning web maps using the ArcGIS API for JavaScript 4.x. 
 	- [MapUIPatterns](https://www.mapuipatterns.com/) - Best practices & design principles. UI Patterns describe solutions to observed and recurring design problems.
 - Developer tools:
 	- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/) - Collection of mapping icons, web components, and good practices.
