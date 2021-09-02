@@ -73,6 +73,7 @@ ArcGIS Platform is Esri's Platform as a Service (PaaS) for mapping and location 
 - [application-base-js](https://github.com/Esri/application-base-js) - Core class for creating a configurable application using JavaScript/TypeScript.
 - [ArcGIS API for JavaScript Sample Code](https://developers.arcgis.com/javascript/latest/sample-code/) - Esri's official JavaScript API product team samples.
 - [ArcGIS API for Python Sample Notebooks](https://developers.arcgis.com/python/sample-notebooks/) - Esri's official Python API product team samples.
+- [ArcGIS Arcade Expression Templates](https://github.com/Esri/arcade-expressions) - Collection of reusable Arcade expressions across all supported profiles.
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/) - Search, browse, and use code, scripts, models, add-ins, widgets, and more.
 - [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) - Demo apps built by Esri's REST JS maintainers.
 - [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/) - Esri's official ArcGIS Runtime Android product team samples.
