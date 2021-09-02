@@ -1,8 +1,7 @@
 # Awesome ArcGIS Developer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="arcgis-platform-logo.svg" align="right" width="100">](http://developers.arcgis.com/)
+<img src="arcgis-platform-logo.svg" align="right" width="100">
 
-<!--lint disable double-link-->
 > An awesome set of resources to help you with [ArcGIS Platform](http://developers.arcgis.com/) development, APIs, SDKs, tools, and location services.
 
 ArcGIS Platform is Esri's Platform as a Service (PaaS) for mapping and location analysis applications with ready-to-use location services, data hosting, APIs, tools, and content management services.
