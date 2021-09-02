@@ -1,5 +1,6 @@
 # Awesome ArcGIS Developer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!--lint disable double-link-->
 [<img src="arcgis-platform-logo.svg" align="right" width="100">](http://developers.arcgis.com/)
 
 > An awesome set of resources to help you with [ArcGIS Platform](http://developers.arcgis.com/) development, APIs, SDKs, tools, and location services.
