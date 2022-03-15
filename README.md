@@ -40,7 +40,7 @@ ArcGIS Platform is Esri's Platform as a Service (PaaS) for mapping and location 
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - Guide, API reference and samples to communicate with ArcGIS Earth.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference and sample code to extent ArcGIS Enterprise.
 - [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - Documentation, tutorials, API reference, FAQ, etc. to extend ArcGIS Pro Desktop.
-- [ArcGIS location services - Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services): Official Postman collections to work with the Geocoding & Search API, Routing & Directions API, Demographics & GeoEnrichment API, Data hosting and more.
+- [ArcGIS location services - Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - Official Postman collections to work with the Geocoding & Search API, Routing & Directions API, Demographics & GeoEnrichment API, Data hosting and more.
 - [ArcGIS REST APIs](https://developers.arcgis.com/rest/) - General documentation about ArcGIS REST APIs: location services, content management, portal administration, and more.
 - [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.
 - [ArcGIS REST JS](https://developers.arcgis.com/arcgis-rest-js/) - Key concepts, tutorials and API reference of a collection of JavaScript modules for accessing location services, ArcGIS Online, and ArcGIS Enterprise REST APIs.
@@ -251,18 +251,6 @@ For more information please see our [guidelines for contributing](https://github
 <!--lint disable no-emphasis-as-heading-->
 **Licensing**
 
-Copyright 2016 Esri
+Copyright 2022 Esri
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-A copy of the license is available in the repository's [license.txt](https://github.com/Esri/awesome-arcgis-developer/blob/main/License.txt) file.
+A copy of the license is available in the repository's [license](https://github.com/Esri/awesome-arcgis-developer/blob/main/LICENSE) file.
