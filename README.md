@@ -249,8 +249,3 @@ Esri welcomes contributions from anyone and everyone. You can [issue a pull requ
 For more information please see our [guidelines for contributing](https://github.com/esri/contributing).
 
 <!--lint disable no-emphasis-as-heading-->
-**Licensing**
-
-Copyright 2022 Esri
-
-A copy of the license is available in the repository's [license](https://github.com/Esri/awesome-arcgis-developer/blob/main/LICENSE) file.
