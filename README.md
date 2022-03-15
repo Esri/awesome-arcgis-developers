@@ -249,3 +249,7 @@ Esri welcomes contributions from anyone and everyone. You can [issue a pull requ
 For more information please see our [guidelines for contributing](https://github.com/esri/contributing).
 
 <!--lint disable no-emphasis-as-heading-->
+
+**Footnotes**
+
+Copyright 2022 Esri
