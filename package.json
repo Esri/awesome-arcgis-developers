@@ -5,11 +5,13 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "awesome-lint": "^0.18.0"
+    "awesome-lint": "^0.18.0",
+    "doctoc": "^2.1.0"
   },
   "scripts": {
     "lint": "awesome-lint README.md",
-    "remote-lint": "awesome-lint https://github.com/Esri/awesome-arcgis-developer"
+    "remote-lint": "awesome-lint https://github.com/Esri/awesome-arcgis-developer",
+    "toc": "doctoc README.md"
   },
   "repository": {
     "type": "git",
