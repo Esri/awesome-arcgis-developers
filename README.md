@@ -24,7 +24,6 @@ ArcGIS Platform is Esri's Platform as a Service (PaaS) for mapping and location 
 - [Helpers](#helpers)
 - [Map and data exploration](#map-and-data-exploration)
 - [Playgrounds](#playgrounds)
-- [Related awesome lists](#related-awesome-lists)
 - [Spatial Analysis](#spatial-analysis)
 - [Specifications](#specifications)
 - [Starter apps and CLIs](#starter-apps-and-clis)
@@ -40,7 +39,7 @@ ArcGIS Platform is Esri's Platform as a Service (PaaS) for mapping and location 
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - Guide, API reference and samples to communicate with ArcGIS Earth.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference and sample code to extent ArcGIS Enterprise.
 - [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - Documentation, tutorials, API reference, FAQ, etc. to extend ArcGIS Pro Desktop.
-- [ArcGIS location services Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - Official Postman collections to work with the Geocoding & Search API, Routing & Directions API, Demographics & GeoEnrichment API, Data hosting and more.
+- [ArcGIS location services Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - Official Postman collections to work with the Geocoding and Search API, Routing and Directions API, Demographics and GeoEnrichment API, Data hosting and more.
 - [ArcGIS REST APIs](https://developers.arcgis.com/rest/) - General documentation about ArcGIS REST APIs: location services, content management, portal administration, and more.
 - [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.
 - [ArcGIS REST JS](https://developers.arcgis.com/arcgis-rest-js/) - Key concepts, tutorials and API reference of a collection of JavaScript modules for accessing location services, ArcGIS Online, and ArcGIS Enterprise REST APIs.
@@ -180,21 +179,6 @@ ArcGIS Platform is Esri's Platform as a Service (PaaS) for mapping and location 
 - [js-symbol-playground 3.x](https://developers.arcgis.com/javascript/3/samples/playground/index.html) - Generate symbols to work with the ArcGIS API for JavaScript 3.x.
 - [js-symbol-playground 4.x](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/) - Generate symbols to work with the ArcGIS API for JavaScript 4.x.
 
-## Related awesome lists
-
-- [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) - Awesome list with a wiki flavor with resources about Esri and ArcGIS organized by: products, industries, file formats, content providers, etc.
-- [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - Tools, tutorials, code, helpful projects and links about Earth Observation and Geospatial stuff.
-- [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
-- [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) - Databases, radar, lidar, web map development, etc.
-- [awesome-gis](https://github.com/sshuair/awesome-gis) - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
-- [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - JSON datasets that don't require authentication about: climate, crime, goverment, NASA, travel, etc.
-- [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets.
-- [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
-- [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning.
-- [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
-- [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
-
 ## Spatial Analysis
 
 - [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop) - Collection of GIS tools for spatial analysis of big data.
@@ -230,6 +214,22 @@ ArcGIS Platform is Esri's Platform as a Service (PaaS) for mapping and location 
 - [koop-cli](https://github.com/koopjs/koop-cli) - Tool to scaffold Koop applications and plugins.
 
 ---
+
+<!--lint disable no-emphasis-as-heading-->
+**Related awesome lists**
+
+- [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) - Awesome list with a wiki flavor with resources about Esri and ArcGIS organized by: products, industries, file formats, content providers, etc.
+- [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - Tools, tutorials, code, helpful projects and links about Earth Observation and Geospatial stuff.
+- [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
+- [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) - Databases, radar, lidar, web map development, etc.
+- [awesome-gis](https://github.com/sshuair/awesome-gis) - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
+- [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - JSON datasets that don't require authentication about: climate, crime, goverment, NASA, travel, etc.
+- [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets.
+- [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
+- [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning.
+- [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
+- [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
 
 <!--lint disable no-emphasis-as-heading-->
 **Issues**
