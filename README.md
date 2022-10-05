@@ -1,4 +1,4 @@
-# Awesome ArcGIS Developer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ArcGIS Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src="arcgis-platform-logo.svg" align="right" width="100">
 
