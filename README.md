@@ -56,7 +56,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [ArcObjects SDK for Java](https://desktop.arcgis.com/en/arcobjects/latest/java/#80146cac-6b50-4c82-a9f5-7a5be3406c5b.htm) - Documentation about the Java SDK for the library of Component Object Model (COM) components that make up the foundation of ArcGIS.
 - [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm) - Documentation about the python package to perform geographic data analysis, data conversion, data management, and map automation in ArcGIS Desktop or ArcGIS Enterprise environments.
 - [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/) - Key concepts, tutorials, API reference, plugins, sample code to help you build web apps using Leaflet with ArcGIS Location services.
-- [Mapbox GL JS](https://developers.arcgis.com/mapbox-gl-js/) - Guide and tutorials to help you start building web apps with Mapbox and ArcGIS location services.
+- [MapLibre GL JS](https://developers.arcgis.com/mapbox-gl-js/) - Guide and tutorials to help you start building web apps with MapLibre and ArcGIS location services.
 - [OpenLayers](https://developers.arcgis.com/openlayers/) - Guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
 
 ## ArcGIS location services
