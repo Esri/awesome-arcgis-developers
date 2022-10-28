@@ -36,6 +36,8 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/latest/) - Guides, sample code, API references and showcase to build 2D and 3D interactive web apps unlocking geospatial data.
 - [ArcGIS API for Python](https://developers.arcgis.com/python/) - Guides, sample notebooks and API reference to do mapping, spatial analysis, data science, geospatial AI and automation using Python.
+- [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) - C++ APIs, documentation and examples for the Procedural Runtime (PRT).
+- [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) - Python bindings for the "Procedural Runtime" (PRT) of CityEngine.
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - Guide, API reference and samples to communicate with ArcGIS Earth.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference and sample code to extent ArcGIS Enterprise.
 - [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/) - Guides, API reference and sample code to use ArcGIS data and services to develop for Unity.
@@ -94,6 +96,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
 - [Esri/developer-support](https://github.com/Esri/developer-support) - Community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
 - [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) - A collection of resources for developers using the ArcGIS API for JavaScript.
+- [Esri/pyprt-examples](https://github.com/Esri/pyprt-examples) - Example for PyPRT (Python Bindings for the CityEngine SDK).
 - [esri-loader Examples](https://github.com/Esri/esri-loader#examples) - Examples of how to use the ArcGIS API for JavaScript via esri-loader in applications built with React, Angular, Vue, and other frameworks.
 - [EsriDevSummit](https://github.com/esridevsummit/) - Supplemental source code, example projects, and resources supporting DevSummit technical sessions.
 - [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps) - Shows cool example maps you can use.
