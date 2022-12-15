@@ -40,11 +40,11 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - Guide, API reference and samples to communicate with ArcGIS Earth.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference and sample code to extent ArcGIS Enterprise.
 - [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Guides, sample codes and API reference to build desktop and mobile apps using .Net.
-- [ArcGIS Maps SDK for Kotlin](https://developers.arcgis.com/kotlin/) - Guides, sample codes and API reference to build mobile apps using Kotlin.
-- [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - Guides, sample codes and API reference to build mobile apps using Swift.
 - [ArcGIS Maps SDK for Java](https://developers.arcgis.com/java/) - Guides, sample codes and API reference to build desktop apps.
 - [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - Guides, sample code, API references and showcase to build 2D and 3D interactive web apps unlocking geospatial data.
+- [ArcGIS Maps SDK for Kotlin](https://developers.arcgis.com/kotlin/) - Guides, sample codes and API reference to build mobile apps using Kotlin.
 - [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) - Guides, sample codes and API reference to build mobile and desktop apps.
+- [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - Guides, sample codes and API reference to build mobile apps using Swift.
 - [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/) - Guides, API reference and sample code to use ArcGIS data and services to develop for Unity.
 - [ArcGIS Maps SDK for Unreal Engine](https://developers.arcgis.com/unreal-engine/) - Guides, API reference and sample code to use ArcGIS data and services to develop for Unreal Engine.
 - [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - Documentation, tutorials, API reference, FAQ, etc. to extend ArcGIS Pro Desktop.
