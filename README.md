@@ -175,7 +175,6 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [esri-loader](https://github.com/Esri/esri-loader) - A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e. from the CDN) in applications built with popular JavaScript frameworks and bundlers.
 - [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - Custom React hooks for using the ArcGIS API for JavaScript with esri-loader.
 - [mercator-geographic-converter](https://github.com/hhkaos/mercator-geographic-converter/) - Simple coordinates converter between Geographic units (latitude, longitude) and Mercator units (x, y).
-- [react-arcgis](https://github.com/Esri/react-arcgis) - A library with a few ready to use React components (`<Map />`, `<Scene />`, `<WebMap />`, and `<WebScene />`) to get you started using the ArcGIS API for JavaScript in your React application.
 - [react-sceneview](https://github.com/Esri/react-sceneview) - A simple Esri SceneView react component that builds on the ArcGIS API for JavaScript.
 
 ## Map and data exploration
