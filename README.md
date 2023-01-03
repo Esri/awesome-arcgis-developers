@@ -169,7 +169,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 ## Helpers
 
-- [arcgis-geometry-calculations](https://github.com/hhkaos/arcgis-geometry-calculations) - Web application to get create and grab ArcGIS geometry calculations.
+- [arcgis-geometry-calculations](https://github.com/hhkaos/arcgis-geometry-calculations) - Web application to create and grab ArcGIS geometry calculations.
 - [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - Web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.
 - [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper) -  Web application to get the map extent JSON object for web apps in the ArcGIS API for JavaScript 4.x.
 - [esri-loader](https://github.com/Esri/esri-loader) - A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e. from the CDN) in applications built with popular JavaScript frameworks and bundlers.
