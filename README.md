@@ -116,7 +116,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to and from GeoJSON and TopoJSON.
 - [gpxstudio](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
 - [gtfs2geojson](https://github.com/node-geojson/gtfs2geojson) - Convert GTFS data into GeoJSON.
-- [img2geojson](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as geojson.
+- [img2geojson](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
 - [Koop](https://koopjs.github.io) - JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, vector tiles, feature services and more.
 - [loam](https://github.com/azavea/loam) - JavaScript wrapper for GDAL in the browser.
 - [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
@@ -177,7 +177,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [epsg.io](https://github.com/maptiler/) - Website to discover and transform coordinate systems from all over the world.
 - [esri-loader](https://github.com/Esri/esri-loader) - A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e. from the CDN) in applications built with popular JavaScript frameworks and bundlers.
 - [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - Custom React hooks for using the ArcGIS API for JavaScript with esri-loader.
-- [geojson-random-generator](https://github.com/erick-otenyo/geojson-random-generator) - Generate and download random geojson quickly for testing.
+- [geojson-random-generator](https://github.com/erick-otenyo/geojson-random-generator) - Generate and download random GeoJSON quickly for testing.
 - [histogrand](https://github.com/hhkaos/histogrand) - Random value generator according to customized histograms.
 - [mercator-geographic-converter](https://github.com/hhkaos/mercator-geographic-converter/) - Simple coordinate converter between Geographic units (latitude, longitude) and Mercator units (x, y).
 - [react-sceneview](https://github.com/Esri/react-sceneview) - A simple Esri SceneView react component that builds on the ArcGIS API for JavaScript.
