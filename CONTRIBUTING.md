@@ -2,7 +2,7 @@
 
 These are the rules that applies to new pull requests:
 
-- Use the following format: [Item Name](link) - A short description ends with a period (Keep descriptions concise).
+- Use the following format: `[Item Name](link) - A short description ends with a period (Keep descriptions concise)`.
 - Link additions should be added in alphabetical order of the relevant category.
 - Should only have one level of nested lists, preferably none.
 - Don't add more than one link per line.
