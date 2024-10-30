@@ -85,9 +85,9 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri's official ArcGIS Maps SDK for Unreal Engine product team samples.
 - [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) - Demo apps built by Esri's REST JS maintainers.
 - [ArcGIS Maps SDK for Java samples](https://developers.arcgis.com/java/sample-code/) - Esri's official ArcGIS Maps SDK for Java product team samples. (deprecated)
-- [ArcGIS Maps SDK for .NET MAUI samples](https://developers.arcgis.com/net/android/sample-code/) - Esri's official ArcGIS Maps SDK MAUI product team samples.
+- [ArcGIS Maps SDK for .NET MAUI samples](https://developers.arcgis.com/net/maui/sample-code/) - Esri's official ArcGIS Maps SDK MAUI product team samples.
 - [ArcGIS Maps SDK for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri's official ArcGIS Maps SDK for .NET product team samples.
-- [ArcGIS Maps SDK for .NET WinUI samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri's official ArcGIS Maps SDK WinUI product team samples.
+- [ArcGIS Maps SDK for .NET WinUI samples](https://developers.arcgis.com/net/winui/sample-code/) - Esri's official ArcGIS Maps SDK WinUI product team samples.
 - [ArcGIS Maps SDK for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri's official ArcGIS Maps SDK for .NET product team samples.
 - [ArcGIS Maps SDK for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri's official ArcGIS Maps SDK for Android product team samples for Java.
 - [ArcGIS Maps SDK for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/) - Esri's official ArcGIS Maps SDK for Android product team samples for Kotlin.
@@ -129,7 +129,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 - [ArcGIS Data Interoperability Extension](https://esri-es.github.io/awesome-arcgis/arcgis/products/extensions/data-interoperability/) - Desktop tool to transform +400 data formats. 
 - [FME Server](https://www.safe.com/integrate/) - ETL allowing to easily transform almost any dataset into an ArcGIS compatible format and vice-versa. Support for 500+ formats and technologies.
-- [Make.com](https://www.make.com/en/integrations/survey123?fromImt=1&) - iPaaS to automate repetitive tasks involved in using Survey123 and make your work easier.
+- [Make.com](https://www.make.com/en/integrations/survey123) - iPaaS to automate repetitive tasks involved in using Survey123 and make your work easier.
 - [node-red-contrib-arcgis-rest](https://flows.nodered.org/node/node-red-contrib-arcgis-rest) - Query, delete, update or insert data with low-code programming for event-driven applications of the JS Foundation.
 - [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38) - iPaaS to automate integrations without writing any code.
 - [Tray.io](https://tray.io/connectors/arcgis-integrations) - Manual, scheduled and webhook triggers to apply edits, get features, layers, etc. using Tray Platform's ArcGIS connector.
