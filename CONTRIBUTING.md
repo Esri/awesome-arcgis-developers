@@ -10,4 +10,4 @@ These are the rules that applies to new pull requests:
 - New categories or naming improvements to the existing categorization are welcome.
 - Third-party tools/resources that can be combined or complements the ArcGIS Platform are welcome, they just need to have an open source or freemium version.
 
-Keep in mind that this repository is mainly targeted to developers new to [ArcGIS Platform](https://developers.arcgis.com/documentation/mapping-apis-and-services/arcgis-platform/) with no geographic information systems background. Because of this, we are not including advance tools like Desktop applications that requires a GIS background.
+Keep in mind that this repository is mainly targeted to developers new to [ArcGIS Location Platform](https://location.arcgis.com) with no geographic information systems background. Because of this, we are not including advance tools like Desktop applications that requires a GIS background.
