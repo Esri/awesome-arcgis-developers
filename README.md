@@ -1,5 +1,7 @@
+<!--lint disable double-link-->
 # Awesome ArcGIS Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!--lint disable match-punctuation-->
 <img src="esri-logo.png" align="right" width="100">
 
 > An awesome set of resources to help you [develop with ArcGIS Products](https://www.esri.com/en-us/arcgis/products/develop-with-arcgis/overview).
@@ -36,7 +38,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 - [ArcGIS API for Python](https://developers.arcgis.com/python/) - Guides, sample notebooks and API reference to do mapping, spatial analysis, data science, geospatial AI and automation using Python.
 - [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) - C++ APIs, documentation and examples for the Procedural Runtime (PRT).
-- [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) - Python bindings for the "Procedural Runtime" (PRT) of CityEngine.
+- [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) - Python bindings for the *Procedural Runtime* (PRT) of CityEngine.
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - Guide, API reference and samples to communicate with ArcGIS Earth.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference and sample code to extent ArcGIS Enterprise.
 - [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Guides, sample codes and API reference to build desktop and mobile apps using .Net.
@@ -96,7 +98,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [ArcGIS Maps SDK for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri's official ArcGIS Maps SDK for Qt product team samples for C++.
 - [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) - Collection of boilerplates to get started with the ArcGIS API for JavaScript 4.x.
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
-- [Esri/developer-support](https://github.com/Esri/developer-support) - Community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
+- [Esri/developer-support](https://github.com/Esri/developer-support) - Community samples to help be successful with all ArcGIS developer products (Python, .NET, JavaScript, Android…).
 - [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) - A collection of resources for developers using the ArcGIS API for JavaScript.
 - [Esri/pyprt-examples](https://github.com/Esri/pyprt-examples) - Example for PyPRT (Python Bindings for the CityEngine SDK).
 - [esri-loader Examples](https://github.com/Esri/esri-loader#examples) - Examples of how to use the ArcGIS API for JavaScript via esri-loader in applications built with React, Angular, Vue, and other frameworks.
@@ -121,7 +123,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [img2geojson](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
 - [Koop](https://koopjs.github.io) - JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, vector tiles, feature services and more.
 - [loam](https://github.com/azavea/loam) - JavaScript wrapper for GDAL in the browser.
-- [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
+- [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a *simplified* version of the given geometry using the Douglas-Peucker algorithm.
 - [terraformer](https://github.com/terraformer-js/terraformer) - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
 - [togeojson](https://mapbox.github.io/togeojson/) - Convert KML and GPX to GeoJSON, without the fuss.
 - [tokml](https://github.com/mapbox/tokml) - Convert GeoJSON to KML.
@@ -166,10 +168,10 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [Content management](https://developers.arcgis.com/documentation/mapping-apis-and-services/content-management/) - Store, manage, and access private and public content.
 - [Data hosting](https://developers.arcgis.com/documentation/mapping-apis-and-services/data-hosting/) - Store, manage, and access your data as data services.
 - [Demographics](https://developers.arcgis.com/documentation/mapping-apis-and-services/demographics/) - Discover local facts and demographic information with the GeoEnrichment service.
+- [Geocoding](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/) - Search for addresses, businesses, and places of interest (POIs) with the geocoding service.
 - [Maps](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/) - Display 2D maps and 3D scenes using the basemap layer service and data services.
 - [Offline](https://developers.arcgis.com/documentation/mapping-apis-and-services/offline/) - Display, analyze, and edit data while disconnected.
 - [Routing](https://developers.arcgis.com/documentation/mapping-apis-and-services/routing/) - Find routes and directions with the routing service.
-- [Search](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/) - Search for addresses, businesses, and places of interest (POIs) with the geocoding service.
 - [Security and authentication](https://developers.arcgis.com/documentation/mapping-apis-and-services/security/) - Access services and content using API keys and OAuth 2.0.
 - [Visualization](https://developers.arcgis.com/documentation/mapping-apis-and-services/visualization/) - Style layers to visualize data in 2D and 3D.
 
@@ -186,7 +188,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [reducegeojson](https://github.com/radical-data/reducegeojson) - A tool to reduce the file size of GeoJSON files for web optimisation.
 - [histogrand](https://github.com/hhkaos/histogrand) - Random value generator according to customized histograms.
 - [mercator-geographic-converter](https://github.com/hhkaos/mercator-geographic-converter/) - Simple coordinate converter between Geographic units (latitude, longitude) and Mercator units (x, y).
-- [react-sceneview](https://github.com/Esri/react-sceneview) - A simple Esri SceneView react component that builds on the ArcGIS API for JavaScript.
+- [react-sceneview](https://github.com/Esri/react-sceneview) - A simple Esri SceneView React component that builds on the ArcGIS API for JavaScript.
 - [bboxfinder](http://bboxfinder.com/) - Simple web application to get the coordinates of a bounding box drawn on the map.
 - [snippets client side raster functions](https://ubatsukh.github.io/arcgis-js-api-demos/clientside-rasterfunctions/index.html) - The client-side raster functions are operations that apply processing directly to the source image pixels.
 
