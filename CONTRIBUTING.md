@@ -14,8 +14,12 @@ Keep in mind that this repository is mainly targeted to developers new to [ArcGI
 
 ## Before submitting your PR
 
-Please run: `npm run lint` to verify you the styling rules are met.
+Run: `npm run lint` to verify you the styling rules are met.
 
 ## Check broken links (optional)
 
-Please, run `npx markdown-link-check README.md` to ensure no other link is broken, if it is, please [open an issue](https://github.com/Esri/awesome-arcgis-developers/issues/new).
+Run `npx markdown-link-check README.md` to ensure no other link is broken, if it is, please [open an issue](https://github.com/Esri/awesome-arcgis-developers/issues/new).
+
+## Update toc
+
+Run: `npm run toc` to update the table of contents.
