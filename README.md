@@ -114,7 +114,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [csv2geojson](https://viglino.github.io/ol-ext/examples/misc/csv2geojson.html) - Convert points from CSV format to GeoJSON.
 - [Distillery](http://shancarter.github.io/distillery/) - Web application to simplify and project TopoJSON.
 - [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm) - Use the `maxAllowableOffset` parameter to return generalized geometries with the `query` operation.
-- [Generalize method](https://bit.ly/2VNPkuO) - GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
+- [Generalize method](https://esri-es.github.io/arcgis-search/?search=geometryEngine.generalize#gsc.tab=0&gsc.q=%22generalize%22%20site:developers.arcgis.com&gsc.sort=) - GeometryEngine can produce a geometry with fewer vertices programmatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
 - [gdal](https://github.com/OSGeo/gdal) - Translator library for raster and vector geospatial data formats.
 - [geojson2svg](https://github.com/w8r/geojson2svg) - Render GeoJSON into SVG using inline or external stylesheet.
 - [geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to and from GeoJSON and TopoJSON.
@@ -185,7 +185,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [esri-loader](https://github.com/Esri/esri-loader) - A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e. from the CDN) in applications built with popular JavaScript frameworks and bundlers.
 - [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - Custom React hooks for using the ArcGIS API for JavaScript with esri-loader.
 - [geojson-random-generator](https://github.com/erick-otenyo/geojson-random-generator) - Generate and download random GeoJSON quickly for testing.
-- [reducegeojson](https://github.com/radical-data/reducegeojson) - A tool to reduce the file size of GeoJSON files for web optimisation.
+- [reducegeojson](https://github.com/radical-data/reducegeojson) - A tool to reduce the file size of GeoJSON files for web optimization.
 - [histogrand](https://github.com/hhkaos/histogrand) - Random value generator according to customized histograms.
 - [mercator-geographic-converter](https://github.com/hhkaos/mercator-geographic-converter/) - Simple coordinate converter between Geographic units (latitude, longitude) and Mercator units (x, y).
 - [react-sceneview](https://github.com/Esri/react-sceneview) - A simple Esri SceneView React component that builds on the ArcGIS API for JavaScript.
@@ -198,8 +198,8 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [ArcGIS Map Viewer (classic version)](https://arcgis.com/home/webmap/viewer.html) - Web application to create, explore, and share web maps for 2D applications.
 - [ArcGIS Scene Viewer](https://www.arcgis.com/home/webscene/viewer.html) - Web application to create, explore, and share web maps for 3D applications.
 - [Geo Data Viewer](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer) - VSCode extension for Geo Data Analytics. Support to generate and view maps.
-- [geojson.io](https://github.com/mapbox/geojson.io) - Web application to visualize, generate and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and shapefile.
-- [Mapshaper](https://github.com/mbloch/mapshaper) - Web application to simplify shapes, edit attribute data, clipp, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files. 
+- [geojson.io](https://github.com/mapbox/geojson.io) - Web application to visualize, generate and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and Shapefile.
+- [Mapshaper](https://github.com/mbloch/mapshaper) - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files. 
 - [Smart Mapping](https://www.esri.com/en-us/smart-mapping) - It is built-in in the Map and Scene viewer, but some APIs like JavaScript and Python also provide utilities to help building data explorations tools.
 - [VSCode Map Preview](https://marketplace.visualstudio.com/items?itemName=jumpinjackie.vscode-map-preview) - Extension for visually previewing geospatial file content (GeoJSON, KML, etc) on a map.
 
@@ -255,7 +255,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
 - [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) - Databases, radar, lidar, web map development, etc.
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
-- [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - JSON datasets that don't require authentication about: climate, crime, goverment, NASA, travel, etc.
+- [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - JSON datasets that don't require authentication about: climate, crime, government, NASA, travel, etc.
 - [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets.
 - [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
@@ -284,4 +284,4 @@ For more information please see Esri's [guidelines for contributing](https://git
 
 **Footnotes**
 
-Copyright 2022 Esri
+Copyright 2025 Esri
