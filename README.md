@@ -116,29 +116,32 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 ## Data conversion tools
 
-- [arcgis-json-to-geojson](https://github.com/gavinr/arcgis-json-to-geojson) - Convert layer in ArcGIS JSON spec to GeoJSON spec.
-- [csv2geojson](https://viglino.github.io/ol-ext/examples/misc/csv2geojson.html) - Convert points from CSV format to GeoJSON.
-- [Distillery](http://shancarter.github.io/distillery/) - Web application to simplify and project TopoJSON.
-- [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm) - Use the `maxAllowableOffset` parameter to return generalized geometries with the `query` operation.
-- [Generalize method](https://esri-es.github.io/arcgis-search/?search=geometryEngine.generalize#gsc.tab=0&gsc.q=%22generalize%22%20site:developers.arcgis.com&gsc.sort=) - GeometryEngine can produce a geometry with fewer vertices programmatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
-- [gdal](https://github.com/OSGeo/gdal) - Translator library for raster and vector geospatial data formats.
-- [geojson2svg](https://github.com/w8r/geojson2svg) - Render GeoJSON into SVG using inline or external stylesheet.
-- [geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to and from GeoJSON and TopoJSON.
-- [gpxstudio](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
-- [gtfs2geojson](https://github.com/node-geojson/gtfs2geojson) - Convert GTFS data into GeoJSON.
-- [img2geojson](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
-- [Koop](https://koopjs.github.io) - JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, vector tiles, feature services and more.
-- [loam](https://github.com/azavea/loam) - JavaScript wrapper for GDAL in the browser.
-- [Mapshaper](https://github.com/mbloch/mapshaper) - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files.
-- [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a *simplified* version of the given geometry using the Douglas-Peucker algorithm.
-- [terraformer](https://github.com/terraformer-js/terraformer) - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
-- [togeojson](https://mapbox.github.io/togeojson/) - Convert KML and GPX to GeoJSON, without the fuss.
-- [tokml](https://github.com/mapbox/tokml) - Convert GeoJSON to KML.
+- Core geospatial processing libraries:
+  - [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm) - Python interface to the ArcGIS geoprocessing framework for automating spatial analysis, data management, and mapping.
+  - [gdal](https://github.com/OSGeo/gdal) - Translator library for raster and vector geospatial data formats.
+  - [loam](https://github.com/azavea/loam) - JavaScript wrapper for GDAL in the browser.
+- Format conversion:
+  - [arcgis-json-to-geojson](https://github.com/gavinr/arcgis-json-to-geojson) - Convert layer in ArcGIS JSON spec to GeoJSON spec.
+  - [csv2geojson](https://viglino.github.io/ol-ext/examples/misc/csv2geojson.html) - Convert points from CSV format to GeoJSON.
+  - [geojson2svg](https://github.com/w8r/geojson2svg) - Render GeoJSON into SVG using inline or external stylesheet.
+  - [geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to and from GeoJSON and TopoJSON.
+  - [gtfs2geojson](https://github.com/node-geojson/gtfs2geojson) - Convert GTFS data into GeoJSON.
+  - [img2geojson](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
+  - [terraformer](https://github.com/terraformer-js/terraformer) - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
+  - [togeojson](https://mapbox.github.io/togeojson/) - Convert KML and GPX to GeoJSON, without the fuss.
+  - [tokml](https://github.com/mapbox/tokml) - Convert GeoJSON to KML.
+- Simplification and generalization:
+  - [Distillery](http://shancarter.github.io/distillery/) - Web application to simplify and project TopoJSON.
+  - [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm) - Use the `maxAllowableOffset` parameter to return generalized geometries with the `query` operation.
+  - [Generalize method](https://esri-es.github.io/arcgis-search/?search=geometryEngine.generalize#gsc.tab=0&gsc.q=%22generalize%22%20site:developers.arcgis.com&gsc.sort=) - GeometryEngine can produce a geometry with fewer vertices programmatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
+  - [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a *simplified* version of the given geometry using the Douglas-Peucker algorithm.
+  - [Mapshaper](https://github.com/mbloch/mapshaper) - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files.
 
 ## Data integration tools
 
 - [ArcGIS Data Interoperability Extension](https://esri-es.github.io/awesome-arcgis/arcgis/products/extensions/data-interoperability/) - Desktop tool to transform +400 data formats. 
 - [FME Server](https://www.safe.com/integrate/) - ETL allowing to easily transform almost any dataset into an ArcGIS compatible format and vice-versa. Support for 500+ formats and technologies.
+- [Koop](https://koopjs.github.io) - JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, vector tiles, feature services and more.
 - [Make.com](https://www.make.com/en/integrations/survey123) - iPaaS to automate repetitive tasks involved in using Survey123 and make your work easier.
 - [node-red-contrib-arcgis-rest](https://flows.nodered.org/node/node-red-contrib-arcgis-rest) - Query, delete, update or insert data with low-code programming for event-driven applications of the JS Foundation.
 - [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38) - iPaaS to automate integrations without writing any code.
@@ -165,6 +168,8 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 	- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/) - Collection of mapping icons, web components, and good practices.
   - [Calcite Intellisense Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=K-Dev.calcite-intellisense) - Injects HTML IntelliSense (completion, hover, documentation) for Esri Calcite Design System web components, using Esri's official custom-data JSON.
 	- [Calcite Snippets Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=K-Dev.calcite-snippets) - A collection of handy code snippets for the Calcite Design System components, designed to boost your productivity when building web applications with Calcite in Visual Studio Code.
+	<!--lint disable double-link-->
+	- [geojson2svg](https://github.com/w8r/geojson2svg) - Render GeoJSON into SVG using inline or external stylesheet.
 - GUIs:
 	- [ArcGIS Vector Tile Style Editor](https://developers.arcgis.com/documentation/mapping-apis-and-services/tools/vector-tile-style-editor/) - Style vector tile basemap layers for applications.
 	- [arcgis-vectortile-style-editor](https://github.com/Esri/arcgis-vectortile-style-editor) - Minimalistic tool to update the styles of Esri Vector Basemaps through JSON.
@@ -206,6 +211,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [ArcGIS Scene Viewer](https://www.arcgis.com/home/webscene/viewer.html) - Web application to create, explore, and share web maps for 3D applications.
 - [Geo Data Viewer](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer) - VSCode extension for Geo Data Analytics. Support to generate and view maps.
 - [geojson.io](https://github.com/mapbox/geojson.io) - Web application to visualize, generate and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and Shapefile.
+- [gpxstudio](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
 - [Mapshaper](https://github.com/mbloch/mapshaper) - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files. 
 - [Smart Mapping](https://www.esri.com/en-us/smart-mapping) - It is built-in in the Map and Scene viewer, but some APIs like JavaScript and Python also provide utilities to help building data explorations tools.
 - [VSCode Map Preview](https://marketplace.visualstudio.com/items?itemName=jumpinjackie.vscode-map-preview) - Extension for visually previewing geospatial file content (GeoJSON, KML, etc) on a map.
