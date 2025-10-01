@@ -1,0 +1,18 @@
+# lychee.toml
+verbose = "info"
+
+# Requests
+method = "get"                  # some sites 403 on HEAD
+user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
+header = { "accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" }
+
+# Retries and timeouts (optional hardening)
+max_retries = 2
+retry_wait_time = 2
+timeout = 20
+
+# Don’t change accepted codes globally; keep 2xx (+ optional 429)
+accept = ["200", "204", "206", "429"]
+
+# If Make.com still blocks CI IPs, exclude just that URL as a last resort:
+exclude = ['^https://www\.make\.com/en/integrations/survey123$']

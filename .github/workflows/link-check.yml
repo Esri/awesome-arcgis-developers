@@ -13,4 +13,11 @@ jobs:
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --config lychee.toml
+            --no-progress
+            --verbose
+            README.md
+
 
