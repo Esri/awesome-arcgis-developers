@@ -65,13 +65,14 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [Basemap styles service (v1)](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/services/basemap-layer-service/) - Access streets, satellite, and other basemap styles for maps and scenes.
 - [Basemap styles service (v2)](https://developers.arcgis.com/rest/basemap-styles/) - Access multiples map styles, add places of interest, set labels languages, word views and more.
 - [Places service](https://developers.arcgis.com/rest/places/) - Search for businesses and geographic locations around the world with detailed information about each place.
-- [Elevation and hydrology services](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm) - Generate elevation profiles and viewsheds, but also can trace water flow and generate watersheds.
+- [Elevation service](https://developers.arcgis.com/documentation/mapping-and-location-services/elevation/) - Get the vertical distance (height) of a location above or below the mean sea level or ground level.
+- [Hydrology analysis service](https://developers.arcgis.com/rest/elevation-analysis/hydrology-analysis-service/) - Trace water flow and generate watersheds.
 - [Geocoding service](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/services/geocoding-service/) - Search for addresses, businesses, and places around the world.
 - [GeoEnrichment service](https://developers.arcgis.com/documentation/mapping-apis-and-services/demographics/services/geoenrichment-service/) - Find facts and demographic information about a location or area.
 - [Routing service](https://developers.arcgis.com/documentation/mapping-apis-and-services/routing/services/routing-service/) - Get turn-by-turn directions and solve advanced routing problems.
 - [Printing tools service](https://developers.arcgis.com/rest/services-reference/enterprise/export-web-map-task.htm) - Generate static maps (png, jpg, pdf, etc.) from advance web maps.
 <!--lint disable double-link-->
-- [Spatial analysis service](https://developers.arcgis.com/rest/analysis/api-reference/getting-started.htm) - Process spatial datasets to discover relationships and patterns.
+- [Spatial analysis service](https://developers.arcgis.com/rest/analysis/) - Process spatial datasets to discover relationships and patterns.
 - [Offline packaging service](https://developers.arcgis.com/rest/packaging/api-reference/create-map-area.htm) - Create and manage preplanned map areas for generating offline maps.
 
 ## Code samples and snippets
@@ -153,7 +154,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 	- [MapUIPatterns](https://www.mapuipatterns.com/) - Best practices & design principles. UI Patterns describe solutions to observed and recurring design problems.
 - Developer tools:
 	- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/) - Collection of mapping icons, web components, and good practices.
-    - [Calcite Intellisense Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=K-Dev.calcite-intellisense) - Injects HTML IntelliSense (completion, hover, documentation) for Esri Calcite Design System web components, using Esri’s official custom-data JSON.
+  - [Calcite Intellisense Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=K-Dev.calcite-intellisense) - Injects HTML IntelliSense (completion, hover, documentation) for Esri Calcite Design System web components, using Esri's official custom-data JSON.
 	- [Calcite Snippets Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=K-Dev.calcite-snippets) - A collection of handy code snippets for the Calcite Design System components, designed to boost your productivity when building web applications with Calcite in Visual Studio Code.
 - GUIs:
 	- [ArcGIS Vector Tile Style Editor](https://developers.arcgis.com/documentation/mapping-apis-and-services/tools/vector-tile-style-editor/) - Style vector tile basemap layers for applications.
@@ -211,6 +212,8 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 ## Spatial Analysis
 
+<!--lint disable double-link-->
+- [ArcGIS Analysis services](https://developers.arcgis.com/rest/analysis-services/) - Spatial, raster, elevation and hydrology, and utility network analysis.
 - [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop) - Collection of GIS tools for spatial analysis of big data.
 - [Esri/spatial-framework-for-hadoop](https://github.com/Esri/spatial-framework-for-hadoop) - Allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.
 - [Client-side Geometry Engine](https://esri-es.github.io/arcgis-search/?search=geometry+engine&utm_source=chrome-extension#gsc.tab=0&gsc.q=geometry%20engine%20site:developers.arcgis.com&gsc.sort=) - Allows you to test spatial relationships, calculate new geometries, and measure lengths, areas, distances, etc.
@@ -220,9 +223,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 	- [ArcGIS Maps SDK for Android `GeometryEngine`](https://developers.arcgis.com/android/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
 	- [ArcGIS Maps SDK for iOS `AGSGeometryEngine`](https://developers.arcgis.com/ios/api-reference/interface_a_g_s_geometry_engine.html)
 	- [ArcGIS Maps SDK for Qt `GeometryEngine`](https://developers.arcgis.com/qt/cpp/api-reference/esri-arcgisruntime-geometryengine.html)
-<!--lint disable double-link-->
-- [Spatial analysis service](https://developers.arcgis.com/rest/analysis/api-reference/getting-started.htm) - Process spatial datasets to discover relationships and patterns.
-- [Turf.js](https://www.npmjs.com/package/@turf/simplify) - Geospatial analysis for browsers and Node.js.
+- [Turf.js](https://github.com/Turfjs/turf) - Geospatial analysis for browsers and Node.js.
 
 ## Specifications
 
