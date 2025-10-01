@@ -89,18 +89,16 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [Esri/developer-support](https://github.com/Esri/developer-support) - Community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
 - [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts) - Esri Netherlands scripts and snippets for reuse.
 - .NET:
-	- [ArcGIS Maps SDK for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/) - Esri's official AArcGIS Maps SDK for Android product team samples.
-	- [ArcGIS Maps SDK for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri's official AArcGIS Maps SDK for .NET product team samples.
-  - [ArcGIS Maps SDK for .NET MAUI samples](https://developers.arcgis.com/net/maui/sample-code/) - Esri's official ArcGIS Maps SDK MAUI product team samples.
-	- [ArcGIS Maps SDK for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri's official AArcGIS Maps SDK for .NET product team samples.
-	- [ArcGIS Maps SDK for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri's official AArcGIS Maps SDK for .NET product team samples.
+  	- [ArcGIS Maps SDK for .NET MAUI samples](https://developers.arcgis.com/net/maui/sample-code/) - Esri's official ArcGIS Maps SDK MAUI product team samples.
+	- [ArcGIS Maps SDK for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri's official ArcGIS Maps SDK for .NET product team samples.
+ 	- [ArcGIS Maps SDK for .NET WinUI samples](https://developers.arcgis.com/net/winui/sample-code/) - Esri's official ArcGIS Maps SDK for .NET product team samples.
+	- [ArcGIS Maps SDK for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri's official ArcGIS Maps SDK for .NET product team samples.
 - Android:
-	- [ArcGIS Maps SDK for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri's official AArcGIS Maps SDK for Android product team samples for Java.
-	- [ArcGIS Maps SDK for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/) - Esri's official AArcGIS Maps SDK for Android product team samples for Kotlin.
+	- [ArcGIS Maps SDK for Kotlin samples](https://developers.arcgis.com/kotlin/sample-code/) - Esri's official ArcGIS Maps SDK for Kotlin product team samples for Kotlin.
 - Arcade:
   - [ArcGIS Arcade Expression Templates](https://github.com/Esri/arcade-expressions) - Collection of reusable Arcade expressions across all supported profiles.
 - iOS:
-	- [ArcGIS Maps SDK for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri's official AArcGIS Maps SDK for iOS product team samples.
+	- [ArcGIS Maps SDK for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri's official ArcGIS Maps SDK for iOS product team samples.
 - JavaScript:
 	- [ArcGIS API for JavaScript Sample Code](https://developers.arcgis.com/javascript/latest/sample-code/) - Esri's official JavaScript API product team samples.
 	- [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) - Demo apps built by Esri's REST JS maintainers.
@@ -112,8 +110,8 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 	- [ArcGIS API for Python Sample Notebooks](https://developers.arcgis.com/python/sample-notebooks/) - Esri's official Python API product team samples.
 	- [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps) - Shows cool example maps you can use.
 - Qt:
-	- [ArcGIS Maps SDK for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri's official AArcGIS Maps SDK for Qt product team samples for C++.
-	- [ArcGIS Maps SDK for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri's official AArcGIS Maps SDK for Qt product team samples for QML.
+	- [ArcGIS Maps SDK for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri's official ArcGIS Maps SDK for Qt product team samples for C++.
+	- [ArcGIS Maps SDK for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri's official ArcGIS Maps SDK for Qt product team samples for QML.
 - Unity:
   - [ArcGIS Maps SDK for Unity samples](https://developers.arcgis.com/unity/sample-code/) - Esri's official ArcGIS Maps SDK for Unity product team samples.
 - Unreal:
