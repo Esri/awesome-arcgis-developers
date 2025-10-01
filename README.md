@@ -206,7 +206,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [js-symbol-playground 3.x](https://developers.arcgis.com/javascript/3/samples/playground/index.html) - Generate symbols to work with the ArcGIS API for JavaScript 3.x.
 - [js-symbol-playground 4.x](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/) - Generate symbols to work with the ArcGIS API for JavaScript 4.x.
 - [Postman workspaces](https://www.postman.com/esridevs) - Postman collections to experiment with location services and authentication.
-- [Firefly Symbols Generator](https://vannizhang.github.io/firefly-symbols-generator/dist/) - Firefly symbol generation
+- [Firefly Symbols Generator](https://vannizhang.github.io/firefly-symbols-generator/dist/) - Firefly symbol generation.
 ## Spatial Analysis
 
 - [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop) - Collection of GIS tools for spatial analysis of big data.
