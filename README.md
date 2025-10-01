@@ -16,6 +16,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [APIs and SDKs](#apis-and-sdks)
+- [Application generators and CLIs](#application-generators-and-clis)
 - [ArcGIS location services](#arcgis-location-services)
 - [Code samples and snippets](#code-samples-and-snippets)
 - [Data conversion tools](#data-conversion-tools)
@@ -28,7 +29,6 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [Playgrounds](#playgrounds)
 - [Spatial Analysis](#spatial-analysis)
 - [Specifications](#specifications)
-- [Starter apps and CLIs](#starter-apps-and-clis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -60,6 +60,12 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/) - Key concepts, tutorials, API reference, plugins, sample code to help you build web apps using Leaflet with ArcGIS Location services.
 - [MapLibre GL JS](https://developers.arcgis.com/mapbox-gl-js/) - Guide and tutorials to help you start building web apps with MapLibre and ArcGIS location services.
 - [OpenLayers](https://developers.arcgis.com/openlayers/) - Guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
+
+## Application generators and CLIs
+
+- [@arcgis/cli](https://github.com/Esri/arcgis-js-cli) - Quickly scaffold various applications for the ArcGIS API for JavaScript.
+- [generator-esri-appbuilder-js](https://github.com/Esri/generator-esri-appbuilder-js) - Yeoman generator to help customize Esri's Web AppBuilder.
+- [koop-cli](https://github.com/koopjs/koop-cli) - Tool to scaffold Koop applications and plugins.
 
 ## ArcGIS location services
 
@@ -123,6 +129,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [img2geojson](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
 - [Koop](https://koopjs.github.io) - JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, vector tiles, feature services and more.
 - [loam](https://github.com/azavea/loam) - JavaScript wrapper for GDAL in the browser.
+- [Mapshaper](https://github.com/mbloch/mapshaper) - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files.
 - [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a *simplified* version of the given geometry using the Douglas-Peucker algorithm.
 - [terraformer](https://github.com/terraformer-js/terraformer) - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
 - [togeojson](https://mapbox.github.io/togeojson/) - Convert KML and GPX to GeoJSON, without the fuss.
@@ -239,12 +246,6 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [Tile Package Specification](https://github.com/Esri/tile-package-spec) - Compressed file containing a set of tiles and a tiling scheme, which can be used as a basemap in ArcGIS applications.
 - [Web Map spec](https://developers.arcgis.com/web-map-specification/) - Sharable 2D maps. It describes the JSON object which defines a web map.
 - [Web Scene spec](https://developers.arcgis.com/web-scene-specification/) - A JSON structure that defines the contents (viewpoint, camera, basemap layer, layers, styles, etc.) for a shareable 3D scene.
-
-## Starter apps and CLIs
-
-- [@arcgis/cli](https://github.com/Esri/arcgis-js-cli) - Quickly scaffold various applications for the ArcGIS API for JavaScript.
-- [generator-esri-appbuilder-js](https://github.com/Esri/generator-esri-appbuilder-js) - Yeoman generator to help customize Esri's Web AppBuilder.
-- [koop-cli](https://github.com/koopjs/koop-cli) - Tool to scaffold Koop applications and plugins.
 
 ---
 
