@@ -1,12 +1,14 @@
-name: CI
+name: Awesome Lint
 on:
+  push:
+    branches: [main]
   pull_request:
     branches: [main]
 jobs:
-  Awesome_Lint:
+  lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - run: npx awesome-lint
