@@ -131,8 +131,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
   - [togeojson](https://mapbox.github.io/togeojson/) - Convert KML and GPX to GeoJSON, without the fuss.
   - [tokml](https://github.com/mapbox/tokml) - Convert GeoJSON to KML.
 - Simplification and generalization:
-  - [Distillery](http://shancarter.g
-  - ithub.io/distillery/) - Web application to simplify and project TopoJSON.
+  - [Distillery](http://shancarter.github.io/distillery/) - Web application to simplify and project TopoJSON.
   - [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm) - Use the `maxAllowableOffset` parameter to return generalized geometries with the `query` operation.
   - [Generalize method](https://esri-es.github.io/arcgis-search/?search=geometryEngine.generalize#gsc.tab=0&gsc.q=%22generalize%22%20site:developers.arcgis.com&gsc.sort=) - GeometryEngine can produce a geometry with fewer vertices programmatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
   - [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a *simplified* version of the given geometry using the Douglas-Peucker algorithm.
