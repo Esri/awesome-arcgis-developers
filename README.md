@@ -169,6 +169,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [Fiddler Classic](https://www.telerik.com/fiddler/fiddler-classic) - Windows tool that logs HTTP(s) network traffic.
 - [GeoJSONLint](https://geojsonlint.com/) - Validate and view your GeoJSON.
 - [json-schema.org](https://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents (including multiple validators).
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and validator that expands JSON strings embedded inside JSON.
 - [mapbox/geojson-vt/debug](http://mapbox.github.io/geojson-vt/debug/) - Validate GeoJSON or TopoJSON.
 - [Postman interceptor](https://www.postman.com/product/postman-interceptor/) - Interceptor enables you to sync cookies from your browser and capture network requests directly from Chrome.
 - [netbalancer.com](https://netbalancer.com/) - Windows application for local network traffic control and monitoring.
